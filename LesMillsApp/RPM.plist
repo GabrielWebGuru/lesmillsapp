@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>RPM  66</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/RPM+66/104733929</string>
+		<key>PlaylistByService</key>
+		<dict>
+			<key>YouTube</key>
+			<string>https://www.youtube.com/playlist?list=PLb4x8eIyrCZdy-UW3LQ27hd_FEj3Z31K_</string>
+			<key>GrooveShark</key>
+			<string>http://grooveshark.com/playlist/RPM+66/104733929</string>
+			<key>Spotify</key>
+			<string>https://open.spotify.com/user/simona.b/playlist/3mxl4mQFqxLxxx8dF4aYk5</string>
+		</dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Pack Ride</string>
+				<key>SongTitle</key>
+				<string>Angel In Blue Jeans</string>
+				<key>SongArtist</key>
+				<string>Train</string>
+				<key>SongDuration</key>
+				<string>3:24</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Pace</string>
+				<key>SongTitle</key>
+				<string>Ugly Heart</string>
+				<key>SongArtist</key>
+				<string>G.R.L</string>
+				<key>SongDuration</key>
+				<string>3:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hills</string>
+				<key>SongTitle</key>
+				<string>Keep On Pushing 2K13 (RainDropz! Extended Mix)</string>
+				<key>SongArtist</key>
+				<string>RainDropz! feat. Bass Bumpers</string>
+				<key>SongDuration</key>
+				<string>4:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Terrain</string>
+				<key>SongTitle</key>
+				<string>Run, Run</string>
+				<key>SongArtist</key>
+				<string>Jeremy Redmore</string>
+				<key>SongDuration</key>
+				<string>4:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Intervals</string>
+				<key>SongTitle</key>
+				<string>1000HP</string>
+				<key>SongArtist</key>
+				<string>Godsmack</string>
+				<key>SongDuration</key>
+				<string>3:47</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Work</string>
+				<key>SongTitle</key>
+				<string>Raging Bull (Extended Mix)</string>
+				<key>SongArtist</key>
+				<string>ATB &amp; Boss and Swan</string>
+				<key>SongDuration</key>
+				<string>5:29</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mountain Climb</string>
+				<key>SongTitle</key>
+				<string>Ping Pong (Kryder &amp; Tom Staar Remix)</string>
+				<key>SongArtist</key>
+				<string>Armin Van Buuren</string>
+				<key>SongDuration</key>
+				<string>4:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Ride Home</string>
+				<key>SongTitle</key>
+				<string>We Are Done</string>
+				<key>SongArtist</key>
+				<string>The Madden Brothers</string>
+				<key>SongDuration</key>
+				<string>3:36</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>Best Day Of My Life</string>
+				<key>SongArtist</key>
+				<string>American Authors</string>
+				<key>SongDuration</key>
+				<string>3:14</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>BONUS</string>
+				<key>SongTitle</key>
+				<string>Classical Gas (Extended)</string>
+				<key>SongArtist</key>
+				<string>Nick Skitz &amp; Technoposse</string>
+				<key>SongDuration</key>
+				<string>3:00</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>RPM 65</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/RPM+65/102987421</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Pack Ride</string>
+				<key>SongTitle</key>
+				<string>Calling All Hearts</string>
+				<key>SongArtist</key>
+				<string>DJ Cassidy ft. Robin Thicke &amp; Jessie J</string>
+				<key>SongDuration</key>
+				<string>4:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Pace</string>
+				<key>SongTitle</key>
+				<string>Summer</string>
+				<key>SongArtist</key>
+				<string>Calvin Harris</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+				<key>SongDuration2</key>
+				<string>1:03</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hills</string>
+				<key>SongTitle</key>
+				<string>Anthem #2 (Nick Skitz &amp; Technoposse Rmx)</string>
+				<key>SongArtist</key>
+				<string>Nick Skitz</string>
+				<key>SongDuration</key>
+				<string>5:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Terrain</string>
+				<key>SongTitle</key>
+				<string>Heartbeat</string>
+				<key>SongArtist</key>
+				<string>The Fray</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+				<key>SongDuration2</key>
+				<string>1:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Intervals</string>
+				<key>SongTitle</key>
+				<string>House Of The Rising Sun</string>
+				<key>SongArtist</key>
+				<string>Fiction Saint</string>
+				<key>SongDuration</key>
+				<string>5:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Work</string>
+				<key>SongTitle</key>
+				<string>Earth Meets Water (Club Mix)</string>
+				<key>SongArtist</key>
+				<string>Dash Berlin &amp; Rigby</string>
+				<key>SongDuration</key>
+				<string>6:37</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mountain Climb</string>
+				<key>SongTitle</key>
+				<string>Get Loose</string>
+				<key>SongArtist</key>
+				<string>Showtek &amp; Noisecontrollers</string>
+				<key>SongDuration</key>
+				<string>6:43</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Ride Home</string>
+				<key>SongTitle</key>
+				<string>Rude</string>
+				<key>SongArtist</key>
+				<string>MAGIC!</string>
+				<key>SongDuration</key>
+				<string>3:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>Stay With Me</string>
+				<key>SongArtist</key>
+				<string>Sam Smith</string>
+				<key>SongDuration</key>
+				<string>2:54</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus:Holding Onto Heaven (Kove Rmx) ALT 5</string>
+				<key>SongArtist</key>
+				<string>Foxes</string>
+				<key>SongDuration</key>
+				<string>6:08</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>RPM 64</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/RPM+64/101083984</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Pack Ride</string>
+				<key>SongTitle</key>
+				<string>Just Say Yes</string>
+				<key>SongArtist</key>
+				<string>Snow Patrol</string>
+				<key>SongDuration</key>
+				<string>4:31</string>
+				<key>SongDuration2</key>
+				<string>1:14</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Pace</string>
+				<key>SongTitle</key>
+				<string>Take Me Home </string>
+				<key>SongArtist</key>
+				<string>Cash Cash ft. Bebe Rexha</string>
+				<key>SongDuration</key>
+				<string>3:15</string>
+				<key>SongDuration2</key>
+				<string>1:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hills</string>
+				<key>SongTitle</key>
+				<string>Get Ready (Steve Aoki Extended)</string>
+				<key>SongArtist</key>
+				<string>2 Unlimited</string>
+				<key>SongDuration</key>
+				<string>5:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Terrain</string>
+				<key>SongTitle</key>
+				<string>Hurricane </string>
+				<key>SongArtist</key>
+				<string>The Fray</string>
+				<key>SongDuration</key>
+				<string>3:42</string>
+				<key>SongDuration2</key>
+				<string>1:24</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Intervals</string>
+				<key>SongTitle</key>
+				<string>Alone Together (Krewella Rmx) </string>
+				<key>SongArtist</key>
+				<string>Fall Out Boy</string>
+				<key>SongDuration</key>
+				<string>3:13</string>
+				<key>SongDuration2</key>
+				<string>3:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Work</string>
+				<key>SongTitle</key>
+				<string>Face To Face (Rudee Rmx)</string>
+				<key>SongArtist</key>
+				<string>ATB ft. Stanfour</string>
+				<key>SongDuration</key>
+				<string>6:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mountain Climb</string>
+				<key>SongTitle</key>
+				<string>Black Velvet (DJ Gollum vs Jan Wayne Rmx) </string>
+				<key>SongArtist</key>
+				<string>Gorgeous X Jan Wayne</string>
+				<key>SongDuration</key>
+				<string>6:39</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Ride Home</string>
+				<key>SongTitle</key>
+				<string>Peace</string>
+				<key>SongArtist</key>
+				<string>O.A.R</string>
+				<key>SongDuration</key>
+				<string>3:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>Rather Be</string>
+				<key>SongArtist</key>
+				<string>Clean Bandit ft. Jess Glynne</string>
+				<key>SongDuration</key>
+				<string>3:47</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>RPM 63</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/RPM+63/98438013</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Pack Ride</string>
+				<key>SongTitle</key>
+				<string>Pumping Blood</string>
+				<key>SongArtist</key>
+				<string>NoNoNo</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+				<key>SongDuration2</key>
+				<string>1:02</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Pace</string>
+				<key>SongTitle</key>
+				<string>The Spark </string>
+				<key>SongArtist</key>
+				<string>Afrojack ft. Spree Wilson</string>
+				<key>SongDuration</key>
+				<string>3:42</string>
+				<key>SongDuration2</key>
+				<string>1:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hills</string>
+				<key>SongTitle</key>
+				<string>Maria (I Like It Loud) (RIO Remix) </string>
+				<key>SongArtist</key>
+				<string>Scooter</string>
+				<key>SongDuration</key>
+				<string>6:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Terrain</string>
+				<key>SongTitle</key>
+				<string>Cheating </string>
+				<key>SongArtist</key>
+				<string>John Newman</string>
+				<key>SongDuration</key>
+				<string>3:24</string>
+				<key>SongDuration2</key>
+				<string>1:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Intervals</string>
+				<key>SongTitle</key>
+				<string>Try It Again </string>
+				<key>SongArtist</key>
+				<string>The Hives
+The Hives</string>
+				<key>SongDuration</key>
+				<string>3:18</string>
+				<key>SongDuration2</key>
+				<string>2:01</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Work</string>
+				<key>SongTitle</key>
+				<string>Dear Boy </string>
+				<key>SongArtist</key>
+				<string>Avicii</string>
+				<key>SongDuration</key>
+				<string>6:37</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mountain Climb</string>
+				<key>SongTitle</key>
+				<string>Toca’s Miracle(Original Mix)</string>
+				<key>SongArtist</key>
+				<string>Nick Stitz &amp; BassLouder</string>
+				<key>SongDuration</key>
+				<string>6:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Ride Home</string>
+				<key>SongTitle</key>
+				<string>Shot at The Night</string>
+				<key>SongArtist</key>
+				<string>The Killers</string>
+				<key>SongDuration</key>
+				<string>4:02</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>On the Top of the World </string>
+				<key>SongArtist</key>
+				<string>Imagine Dragons</string>
+				<key>SongDuration</key>
+				<string>3:11</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>RPM 62</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/RPM+62/96417870</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Pack Ride</string>
+				<key>SongTitle</key>
+				<string>Counting Stars</string>
+				<key>SongArtist</key>
+				<string>One Republic</string>
+				<key>SongDuration</key>
+				<string>4:13</string>
+				<key>SongDuration2</key>
+				<string>1:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Pace</string>
+				<key>SongTitle</key>
+				<string>Wake Me Up </string>
+				<key>SongArtist</key>
+				<string>Avicii</string>
+				<key>SongDuration</key>
+				<string>3:54</string>
+				<key>SongDuration2</key>
+				<string>2:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hills</string>
+				<key>SongTitle</key>
+				<string>Tonight</string>
+				<key>SongArtist</key>
+				<string>Manian &amp; Nicco</string>
+				<key>SongDuration</key>
+				<string>6:21</string>
+				<key>SongDuration2</key>
+				<string>3:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Terrain</string>
+				<key>SongTitle</key>
+				<string>Supersoaker </string>
+				<key>SongArtist</key>
+				<string>Kings Of Leon</string>
+				<key>SongDuration</key>
+				<string>3:45</string>
+				<key>SongDuration2</key>
+				<string>1:15</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Intervals</string>
+				<key>SongTitle</key>
+				<string>Love Me Again </string>
+				<key>SongArtist</key>
+				<string>John Newman</string>
+				<key>SongDuration</key>
+				<string>4:12</string>
+				<key>SongDuration2</key>
+				<string>1:52</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Work</string>
+				<key>SongTitle</key>
+				<string>This Is What It Feels Like (W&amp;W Remix)</string>
+				<key>SongArtist</key>
+				<string>Armin van Buuren ft. Trevor Guthrie</string>
+				<key>SongDuration</key>
+				<string>6:56</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mountain Climb</string>
+				<key>SongTitle</key>
+				<string>Adagio For Strings (Blasterjaxx Remix)</string>
+				<key>SongArtist</key>
+				<string>Tiësto</string>
+				<key>SongDuration</key>
+				<string>6:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Ride Home</string>
+				<key>SongTitle</key>
+				<string>Alive</string>
+				<key>SongArtist</key>
+				<string>Empire Of The Sun</string>
+				<key>SongDuration</key>
+				<string>3:25</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>Swim Good</string>
+				<key>SongArtist</key>
+				<string>Frank Ocean</string>
+				<key>SongDuration</key>
+				<string>4:17</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYPUMP  93</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+93/104705766</string>
+		<key>PlaylistByService</key>
+		<dict>
+			<key>YouTube</key>
+			<string>https://www.youtube.com/playlist?list=PLb4x8eIyrCZfeDEN7wxOyjqwcfDXWkqtp</string>
+			<key>GrooveShark</key>
+			<string>http://grooveshark.com/playlist/BodyPump+93/104705766</string>
+			<key>Spotify</key>
+			<string>https://open.spotify.com/user/simona.b/playlist/0dYCfATpgyfq3lTd1uCJ9I</string>
+		</dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Break Free</string>
+				<key>SongArtist</key>
+				<string>Ariana Grande feat. Zedd</string>
+				<key>SongDuration</key>
+				<string>3:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Squats</string>
+				<key>SongTitle</key>
+				<string>Booyah (Lucky Date Remix)</string>
+				<key>SongArtist</key>
+				<string>Showtek feat. We Are Loud &amp; Sonny Wilson</string>
+				<key>SongDuration</key>
+				<string>5:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Chest</string>
+				<key>SongTitle</key>
+				<string>Kings And Queens</string>
+				<key>SongArtist</key>
+				<string>Thirty Seconds To Mars</string>
+				<key>SongDuration</key>
+				<string>5:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Back</string>
+				<key>SongTitle</key>
+				<string>Here Tonight (Carita La Nina Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>Dash Berlin &amp; Jay Cosmic feat. Colin McLoughlin</string>
+				<key>SongDuration</key>
+				<string>3:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Triceps</string>
+				<key>SongTitle</key>
+				<string>Bang Bang</string>
+				<key>SongArtist</key>
+				<string>Jessie J, Ariana Grande &amp; Nicki Minaj</string>
+				<key>SongDuration</key>
+				<string>3:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Biceps</string>
+				<key>SongTitle</key>
+				<string>Centuries</string>
+				<key>SongArtist</key>
+				<string>Fall Out Boy</string>
+				<key>SongDuration</key>
+				<string>3:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lunges</string>
+				<key>SongTitle</key>
+				<string>1941</string>
+				<key>SongArtist</key>
+				<string>Klaypex feat. Virian</string>
+				<key>SongDuration</key>
+				<string>3:00</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Shoulders</string>
+				<key>SongTitle</key>
+				<string>Twisted (Eptic Remix)</string>
+				<key>SongArtist</key>
+				<string>Fedde le Grand</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>All About That Bass</string>
+				<key>SongArtist</key>
+				<string>Meghan Trainor</string>
+				<key>SongDuration</key>
+				<string>3:08</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>CoolDown</string>
+				<key>SongTitle</key>
+				<string>What Are You Waiting For?</string>
+				<key>SongArtist</key>
+				<string>Nickelback</string>
+				<key>SongDuration</key>
+				<string>3:40</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>BONUS</string>
+				<key>SongTitle</key>
+				<string>Fight On</string>
+				<key>SongArtist</key>
+				<string>Jean-Paul Parks</string>
+				<key>SongDuration</key>
+				<string>3:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>BONUS</string>
+				<key>SongTitle</key>
+				<string>Animal</string>
+				<key>SongArtist</key>
+				<string>Neon Trees</string>
+				<key>SongDuration</key>
+				<string>3:32</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYBUMP 92</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+92/102784887</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>All We Need Is Love</string>
+				<key>SongArtist</key>
+				<string>Ricki-Lee</string>
+				<key>SongDuration</key>
+				<string>3:04</string>
+				<key>SongDuration2</key>
+				<string>2:12</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Squats</string>
+				<key>SongTitle</key>
+				<string>GO!</string>
+				<key>SongArtist</key>
+				<string>Autoerotique vs Marc Noir</string>
+				<key>SongDuration</key>
+				<string>5:29</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Chest</string>
+				<key>SongTitle</key>
+				<string>The Phoenix</string>
+				<key>SongArtist</key>
+				<string>Fall Out Boy</string>
+				<key>SongDuration</key>
+				<string>4:11</string>
+				<key>SongDuration2</key>
+				<string>1:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Back</string>
+				<key>SongTitle</key>
+				<string>Letting Go (LTN Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>BT, Fractal &amp; JES</string>
+				<key>SongDuration</key>
+				<string>5:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Triceps</string>
+				<key>SongTitle</key>
+				<string>Problem</string>
+				<key>SongArtist</key>
+				<string>Ariana Grande ft. Iggy Azalea</string>
+				<key>SongDuration</key>
+				<string>3:12</string>
+				<key>SongDuration2</key>
+				<string>0:51</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Biceps</string>
+				<key>SongTitle</key>
+				<string>Come With Me Now</string>
+				<key>SongArtist</key>
+				<string>KONGOS</string>
+				<key>SongDuration</key>
+				<string>3:36</string>
+				<key>SongDuration2</key>
+				<string>0:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lunges</string>
+				<key>SongTitle</key>
+				<string>NRG</string>
+				<key>SongArtist</key>
+				<string>Guiltless Happy</string>
+				<key>SongDuration</key>
+				<string>5:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Shoulders</string>
+				<key>SongTitle</key>
+				<string>Ping Pong (Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>Armin Van Buuren</string>
+				<key>SongDuration</key>
+				<string>5:15</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>Fancy</string>
+				<key>SongArtist</key>
+				<string>Iggy Azalea ft. Charli XCX</string>
+				<key>SongDuration</key>
+				<string>3:16</string>
+				<key>SongDuration2</key>
+				<string>1:03</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>CoolDown</string>
+				<key>SongTitle</key>
+				<string>Chandelier</string>
+				<key>SongArtist</key>
+				<string>Sia</string>
+				<key>SongDuration</key>
+				<string>3:41</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Dream &amp; Dance       ALT 4</string>
+				<key>SongArtist</key>
+				<string>DJ Paffendorf vs Ryan T</string>
+				<key>SongDuration</key>
+				<string>5:34</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Love Runs Out      ALT 9</string>
+				<key>SongArtist</key>
+				<string>OneRepublic</string>
+				<key>SongDuration</key>
+				<string>3:45</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYBUMP 91</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+91/100710580</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Ten Feet Tall</string>
+				<key>SongArtist</key>
+				<string>Sum Two</string>
+				<key>SongDuration</key>
+				<string>5:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Squats</string>
+				<key>SongTitle</key>
+				<string>Somebody Told Me</string>
+				<key>SongArtist</key>
+				<string>The Killers</string>
+				<key>SongDuration</key>
+				<string>3:15</string>
+				<key>SongDuration2</key>
+				<string>1:55</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Chest</string>
+				<key>SongTitle</key>
+				<string>Goodness Gracious</string>
+				<key>SongArtist</key>
+				<string>Ellie Goulding</string>
+				<key>SongDuration</key>
+				<string>3:34</string>
+				<key>SongDuration2</key>
+				<string>2:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Back</string>
+				<key>SongTitle</key>
+				<string>Beutiful Life (Mikkas Remix)</string>
+				<key>SongArtist</key>
+				<string>Armin Van Buuren ft. Cindy Alma</string>
+				<key>SongDuration</key>
+				<string>5:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Triceps</string>
+				<key>SongTitle</key>
+				<string>Hey Brother </string>
+				<key>SongArtist</key>
+				<string>Avicii</string>
+				<key>SongDuration</key>
+				<string>1:48</string>
+				<key>SongDuration2</key>
+				<string>3:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Biceps</string>
+				<key>SongTitle</key>
+				<string>Bad Company</string>
+				<key>SongArtist</key>
+				<string>Bogus Love</string>
+				<key>SongDuration</key>
+				<string>5:13</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lunges</string>
+				<key>SongTitle</key>
+				<string>Find you</string>
+				<key>SongArtist</key>
+				<string>Zedd ft. Matthew Koma &amp; Miriam Bryant</string>
+				<key>SongDuration</key>
+				<string>3:06</string>
+				<key>SongDuration2</key>
+				<string>2:24</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Shoulders</string>
+				<key>SongTitle</key>
+				<string>Eat Sleep Rave Repeat (Calvin Harris Rmx)</string>
+				<key>SongArtist</key>
+				<string>Fatboy Slim &amp; Riva Starr ft. Beardyman</string>
+				<key>SongDuration</key>
+				<string>5:08</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>Trumpets</string>
+				<key>SongArtist</key>
+				<string>Jason Derulo</string>
+				<key>SongDuration</key>
+				<string>3:42</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>CoolDown</string>
+				<key>SongTitle</key>
+				<string>Burning Bridges </string>
+				<key>SongArtist</key>
+				<string>One Republic</string>
+				<key>SongDuration</key>
+				<string>4:23</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Hold On        ALT 9</string>
+				<key>SongArtist</key>
+				<string>Colbie Caillat</string>
+				<key>SongDuration</key>
+				<string>3:39</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYBUMP 90</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+90/98277945</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>You Make Me</string>
+				<key>SongArtist</key>
+				<string>Avicii</string>
+				<key>SongDuration</key>
+				<string>3:41</string>
+				<key>SongDuration2</key>
+				<string>1:39</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Squats</string>
+				<key>SongTitle</key>
+				<string>What Now </string>
+				<key>SongArtist</key>
+				<string>Rihanna</string>
+				<key>SongDuration</key>
+				<string>3:58</string>
+				<key>SongDuration2</key>
+				<string>1:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Chest</string>
+				<key>SongTitle</key>
+				<string>Conquistador</string>
+				<key>SongArtist</key>
+				<string>Thirty Seconds To Mars</string>
+				<key>SongDuration</key>
+				<string>3:16</string>
+				<key>SongDuration2</key>
+				<string>2:13</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Back</string>
+				<key>SongTitle</key>
+				<string>Promises</string>
+				<key>SongArtist</key>
+				<string>Nero</string>
+				<key>SongDuration</key>
+				<string>4:08</string>
+				<key>SongDuration2</key>
+				<string>1:37</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Triceps</string>
+				<key>SongTitle</key>
+				<string>Walk Of Shame</string>
+				<key>SongArtist</key>
+				<string>P!nk</string>
+				<key>SongDuration</key>
+				<string>1:46</string>
+				<key>SongDuration2</key>
+				<string>2:32</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Biceps</string>
+				<key>SongTitle</key>
+				<string>Miss Jackson</string>
+				<key>SongArtist</key>
+				<string>Panic! At The Disco ft. Loco</string>
+				<key>SongDuration</key>
+				<string>3:19</string>
+				<key>SongDuration2</key>
+				<string>0:40</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lunges</string>
+				<key>SongTitle</key>
+				<string>Stay the Night </string>
+				<key>SongArtist</key>
+				<string>Zedd ft. Hayley Williams</string>
+				<key>SongDuration</key>
+				<string>3:20</string>
+				<key>SongDuration2</key>
+				<string>2:00</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Shoulders</string>
+				<key>SongTitle</key>
+				<string>Thumbs Up (For Rock N Roll) Kill The Noise Remix </string>
+				<key>SongArtist</key>
+				<string>Kill the Noise And Feed Me</string>
+				<key>SongDuration</key>
+				<string>4:37</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>Something I Need </string>
+				<key>SongArtist</key>
+				<string>OneRepublic</string>
+				<key>SongDuration</key>
+				<string>4:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>CoolDown</string>
+				<key>SongTitle</key>
+				<string>How You Remind Me</string>
+				<key>SongArtist</key>
+				<string>Nickelback</string>
+				<key>SongDuration</key>
+				<string>3:47</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Put Your Hands Up          ALT 5</string>
+				<key>SongArtist</key>
+				<string>Stevie V ft. III Youth</string>
+				<key>SongDuration</key>
+				<string>4:55</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Everybody Bring It                 ALT 6</string>
+				<key>SongArtist</key>
+				<string>Ronnie Finesse</string>
+				<key>SongDuration</key>
+				<string>4:58</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYBUMP 89</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+89/96385190</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Not Alone</string>
+				<key>SongArtist</key>
+				<string>Dane Rumble feat. Jupiter Project</string>
+				<key>SongDuration</key>
+				<string>3:36</string>
+				<key>SongDuration2</key>
+				<string>1:02</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Squats</string>
+				<key>SongTitle</key>
+				<string>Raise Those Hands</string>
+				<key>SongArtist</key>
+				<string>R3Hab &amp; Bassjackers</string>
+				<key>SongDuration</key>
+				<string>5:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Chest</string>
+				<key>SongTitle</key>
+				<string>Where Did the Party Go </string>
+				<key>SongArtist</key>
+				<string>Fall Out Boy</string>
+				<key>SongDuration</key>
+				<string>3:54</string>
+				<key>SongDuration2</key>
+				<string>1:12</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Back</string>
+				<key>SongTitle</key>
+				<string>Me &amp; You </string>
+				<key>SongArtist</key>
+				<string>Nero</string>
+				<key>SongDuration</key>
+				<string>2:45</string>
+				<key>SongDuration2</key>
+				<string>2:40</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Triceps</string>
+				<key>SongTitle</key>
+				<string>Applause </string>
+				<key>SongArtist</key>
+				<string>Lady Gaga</string>
+				<key>SongDuration</key>
+				<string>3:34</string>
+				<key>SongDuration2</key>
+				<string>1:01</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Biceps</string>
+				<key>SongTitle</key>
+				<string>When You Were Young </string>
+				<key>SongArtist</key>
+				<string>The Killers</string>
+				<key>SongDuration</key>
+				<string>3:40</string>
+				<key>SongDuration2</key>
+				<string>1:42</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lunges</string>
+				<key>SongTitle</key>
+				<string>Burn</string>
+				<key>SongArtist</key>
+				<string>Ellie Goulding</string>
+				<key>SongDuration</key>
+				<string>3:55</string>
+				<key>SongDuration2</key>
+				<string>1:39</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Shoulders</string>
+				<key>SongTitle</key>
+				<string>True Hardstyler (Silver Nikan Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>Brooklyn Bounce &amp; DJ Zealot</string>
+				<key>SongDuration</key>
+				<string>5:29</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>La La La</string>
+				<key>SongArtist</key>
+				<string>Naughty Boy feat. Sam Smith</string>
+				<key>SongDuration</key>
+				<string>3:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>CoolDown</string>
+				<key>SongTitle</key>
+				<string>Radioactive</string>
+				<key>SongArtist</key>
+				<string>Imagine Dragons</string>
+				<key>SongDuration</key>
+				<string>3:11</string>
+				<key>SongDuration2</key>
+				<string>0:45</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYBUMP 88</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+88/98037823</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Tonight</string>
+				<key>SongArtist</key>
+				<string>Jessica Sanchez ft. Ne-Yo</string>
+				<key>SongDuration</key>
+				<string>4:59</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Squats</string>
+				<key>SongTitle</key>
+				<string>Killer (Crush Remix)</string>
+				<key>SongArtist</key>
+				<string>Skism ft. DC Breaks &amp; Dee Freer</string>
+				<key>SongDuration</key>
+				<string>5:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Chest</string>
+				<key>SongTitle</key>
+				<string>A Little Party Never Killed Nobody (All We Got)</string>
+				<key>SongArtist</key>
+				<string>Fergie ft. Q-Tip &amp; Goonrock</string>
+				<key>SongDuration</key>
+				<string>5:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Back</string>
+				<key>SongTitle</key>
+				<string>Somebody (Cc.K Remix)</string>
+				<key>SongArtist</key>
+				<string>Jens O</string>
+				<key>SongDuration</key>
+				<string>5:38</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Triceps</string>
+				<key>SongTitle</key>
+				<string>Can&apos;t Hold Us</string>
+				<key>SongArtist</key>
+				<string>Macklemore &amp; Ryan Lewis ft. Ray Dalton</string>
+				<key>SongDuration</key>
+				<string>5:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Biceps</string>
+				<key>SongTitle</key>
+				<string>Up In The Air</string>
+				<key>SongArtist</key>
+				<string>30 Seconds To Mars</string>
+				<key>SongDuration</key>
+				<string>4:32</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lunges</string>
+				<key>SongTitle</key>
+				<string>Play Hard</string>
+				<key>SongArtist</key>
+				<string>David Guetta ft. Ne-Yo &amp; Akon </string>
+				<key>SongDuration</key>
+				<string>5:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Shoulders</string>
+				<key>SongTitle</key>
+				<string>Raving  (G! Mix)</string>
+				<key>SongArtist</key>
+				<string>Brooklyn Bounce &amp; Giorno </string>
+				<key>SongDuration</key>
+				<string>5:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>Only You</string>
+				<key>SongArtist</key>
+				<string>Ellie Goulding</string>
+				<key>SongDuration</key>
+				<string>3:55</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>CoolDown</string>
+				<key>SongTitle</key>
+				<string>Give Me Love</string>
+				<key>SongArtist</key>
+				<string>LL Cool J ft. Seal </string>
+				<key>SongDuration</key>
+				<string>4:31</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYBUMP 87</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+87/98276982</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Let There Be Love</string>
+				<key>SongArtist</key>
+				<string>Christina Aguilera</string>
+				<key>SongDuration</key>
+				<string>5:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Squats</string>
+				<key>SongTitle</key>
+				<string>Black Betty</string>
+				<key>SongArtist</key>
+				<string>Scooter</string>
+				<key>SongDuration</key>
+				<string>5:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Chest</string>
+				<key>SongTitle</key>
+				<string>Don&apos;t Stop The Party</string>
+				<key>SongArtist</key>
+				<string>Pitbull ft. TJR</string>
+				<key>SongDuration</key>
+				<string>5:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Back</string>
+				<key>SongTitle</key>
+				<string>Again &amp; Again (Club Mix)</string>
+				<key>SongArtist</key>
+				<string>Nick Skitz &amp; Basslouder ft. Brooklyn Bounce</string>
+				<key>SongDuration</key>
+				<string>5:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Triceps</string>
+				<key>SongTitle</key>
+				<string>My Songs Know What You Did In The Dark</string>
+				<key>SongArtist</key>
+				<string>Fall Out Boy</string>
+				<key>SongDuration</key>
+				<string>4:00</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Biceps</string>
+				<key>SongTitle</key>
+				<string>Bom Bom</string>
+				<key>SongArtist</key>
+				<string>Sam And The Womp</string>
+				<key>SongDuration</key>
+				<string>4:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lunges</string>
+				<key>SongTitle</key>
+				<string>Sweet Nothing</string>
+				<key>SongArtist</key>
+				<string>Calvin Harris ft. Florence Welch</string>
+				<key>SongDuration</key>
+				<string>5:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Shoulders</string>
+				<key>SongTitle</key>
+				<string>Crush On You (KillSonik Remix)</string>
+				<key>SongArtist</key>
+				<string>Nero</string>
+				<key>SongDuration</key>
+				<string>4:43</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>Troublemaker</string>
+				<key>SongArtist</key>
+				<string>Olly Murs ft. Flo Rida</string>
+				<key>SongDuration</key>
+				<string>4:13</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>CoolDown</string>
+				<key>SongTitle</key>
+				<string>Here Without You</string>
+				<key>SongArtist</key>
+				<string>3 Doors Down</string>
+				<key>SongDuration</key>
+				<string>5:08</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus:Years</string>
+				<key>SongArtist</key>
+				<string>Alesso ft. Matthew Koma</string>
+				<key>SongDuration</key>
+				<string>5:08</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

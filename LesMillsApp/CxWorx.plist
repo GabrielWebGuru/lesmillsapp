@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>CXWORX 17</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/CXWORX+17/102987847</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Come Get It Bae</string>
+				<key>SongArtist</key>
+				<string>Pharrel Williams</string>
+				<key>SongDuration</key>
+				<string>3:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 1 </string>
+				<key>SongTitle</key>
+				<string>Rockin&apos; N&apos; Rollin&apos;</string>
+				<key>SongArtist</key>
+				<string>Trivial Lead</string>
+				<key>SongDuration</key>
+				<string>5:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 1</string>
+				<key>SongTitle</key>
+				<string>Never Seen Runaway (Lost Soul &amp; Genjo Mix)</string>
+				<key>SongArtist</key>
+				<string>Jay Kill &amp; The Hustle Standard</string>
+				<key>SongDuration</key>
+				<string>4:10</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 2</string>
+				<key>SongTitle</key>
+				<string>Work</string>
+				<key>SongArtist</key>
+				<string>Ciara ft. Missy Elliot</string>
+				<key>SongDuration</key>
+				<string>4:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 2 </string>
+				<key>SongTitle</key>
+				<string>Satisfy</string>
+				<key>SongArtist</key>
+				<string>Nero</string>
+				<key>SongDuration</key>
+				<string>2:34</string>
+				<key>SongDuration2</key>
+				<string>2:43</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 3</string>
+				<key>SongTitle</key>
+				<string>F For You</string>
+				<key>SongArtist</key>
+				<string>Disclosure ft. Mary J. Blige</string>
+				<key>SongDuration</key>
+				<string>4:57</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Jumanji (Original Mix)         ALT 2</string>
+				<key>SongArtist</key>
+				<string>J-Trick &amp; Taco Cat ft. FERAL is KINKY</string>
+				<key>SongDuration</key>
+				<string>5:16</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus:Guilty All The Same                   ALT 3</string>
+				<key>SongArtist</key>
+				<string>The Misled Mayhem</string>
+				<key>SongDuration</key>
+				<string>4:41</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Tidal Wave (KillSonik Rmx)               ALT 5</string>
+				<key>SongArtist</key>
+				<string>Sub Focus ft. Alpines</string>
+				<key>SongDuration</key>
+				<string>4:61</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>CXWORX 16</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/CXWORX+16/101100790</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Like A Drum</string>
+				<key>SongArtist</key>
+				<string>Guy Sebastian</string>
+				<key>SongDuration</key>
+				<string>3:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 1 </string>
+				<key>SongTitle</key>
+				<string>Let’s Get Ridiculous </string>
+				<key>SongArtist</key>
+				<string>Redfoo</string>
+				<key>SongDuration</key>
+				<string>2:49</string>
+				<key>SongDuration2</key>
+				<string>2:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 1</string>
+				<key>SongTitle</key>
+				<string>Keep Your Hands Off My Girl</string>
+				<key>SongArtist</key>
+				<string>End Young</string>
+				<key>SongDuration</key>
+				<string>3:59</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 2</string>
+				<key>SongTitle</key>
+				<string>Turn Down For What </string>
+				<key>SongArtist</key>
+				<string>DJ Snake &amp; Lil Jon</string>
+				<key>SongDuration</key>
+				<string>1:54</string>
+				<key>SongDuration2</key>
+				<string>3:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 2 </string>
+				<key>SongTitle</key>
+				<string>Revolution (Panic City Rmx) </string>
+				<key>SongArtist</key>
+				<string>Diplo ft. Faustix &amp; Imanos and Kai</string>
+				<key>SongDuration</key>
+				<string>5:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 3</string>
+				<key>SongTitle</key>
+				<string>Take Me Home </string>
+				<key>SongArtist</key>
+				<string>Cash Cash ft. Bebe Rexha</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+				<key>SongDuration2</key>
+				<string>1:53</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Make The World Move         ALT 1</string>
+				<key>SongArtist</key>
+				<string>Christina Aguilera ft. CeeLo Green</string>
+				<key>SongDuration</key>
+				<string>3:00</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus:Video Wars                           ALT 4</string>
+				<key>SongArtist</key>
+				<string>Aero</string>
+				<key>SongDuration</key>
+				<string>4:24</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: What You Wanted                ALT 6</string>
+				<key>SongArtist</key>
+				<string>OneRepublic</string>
+				<key>SongDuration</key>
+				<string>4:55</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>CXWORX 15</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/CXWORX+15/98299107</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Counting Stars</string>
+				<key>SongArtist</key>
+				<string>OneRepublic</string>
+				<key>SongDuration</key>
+				<string>4:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 1 </string>
+				<key>SongTitle</key>
+				<string>Spectrum (Deniz Koyu Remix)</string>
+				<key>SongArtist</key>
+				<string>Zedd ft. Matthew Koma</string>
+				<key>SongDuration</key>
+				<string>4:17</string>
+				<key>SongDuration2</key>
+				<string>2:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 1</string>
+				<key>SongTitle</key>
+				<string>A Light That Never Comes</string>
+				<key>SongArtist</key>
+				<string>Lifting Chain</string>
+				<key>SongDuration</key>
+				<string>5:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 2</string>
+				<key>SongTitle</key>
+				<string>Acapella</string>
+				<key>SongArtist</key>
+				<string>Karmin</string>
+				<key>SongDuration</key>
+				<string>2:59</string>
+				<key>SongDuration2</key>
+				<string>0:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 2 </string>
+				<key>SongTitle</key>
+				<string>Hello</string>
+				<key>SongArtist</key>
+				<string>Stafford Brothers ft. Lil Wayne, Christina Milian</string>
+				<key>SongDuration</key>
+				<string>4:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 3</string>
+				<key>SongTitle</key>
+				<string>Hold On, We’re Going Home </string>
+				<key>SongArtist</key>
+				<string>Drake ft. Majid Jordan</string>
+				<key>SongDuration</key>
+				<string>3:30</string>
+				<key>SongDuration2</key>
+				<string>0:25</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Not Too Late (Maor Levi Remix)   ALT 2</string>
+				<key>SongArtist</key>
+				<string>Amba Shepherd, Tom Swoon</string>
+				<key>SongDuration</key>
+				<string>5:77</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus:The Phoenix                          ALT 3</string>
+				<key>SongArtist</key>
+				<string>Fall Out Boy</string>
+				<key>SongDuration</key>
+				<string>4:85</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus:Get Loose (Tiesto Remix)      ALT 5</string>
+				<key>SongArtist</key>
+				<string>Showtek &amp; Noisecontrolers</string>
+				<key>SongDuration</key>
+				<string>4:44</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>CXWORX 14</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/CXWORX+14/96714283</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>We Own It</string>
+				<key>SongArtist</key>
+				<string>Calcium and Bliss</string>
+				<key>SongDuration</key>
+				<string>3:54</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 1 </string>
+				<key>SongTitle</key>
+				<string>I Choose U (Fedde Le Grand Remix)</string>
+				<key>SongArtist</key>
+				<string>Time Flies</string>
+				<key>SongDuration</key>
+				<string>2:15</string>
+				<key>SongDuration2</key>
+				<string>3:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 1</string>
+				<key>SongTitle</key>
+				<string>Fight On </string>
+				<key>SongArtist</key>
+				<string>Jean-Paul Parks</string>
+				<key>SongDuration</key>
+				<string>5:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength 2</string>
+				<key>SongTitle</key>
+				<string>Set If off (Fat Rat Remix)</string>
+				<key>SongArtist</key>
+				<string>Diplo</string>
+				<key>SongDuration</key>
+				<string>4:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 2 </string>
+				<key>SongTitle</key>
+				<string>Waiting All Night</string>
+				<key>SongArtist</key>
+				<string>Rudimental feat. Ella Eyre</string>
+				<key>SongDuration</key>
+				<string>4:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Strength 3</string>
+				<key>SongTitle</key>
+				<string>How Ya Doing?</string>
+				<key>SongArtist</key>
+				<string>Little Mix feat. Missy Elliot</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Hey Love      ALT 1</string>
+				<key>SongArtist</key>
+				<string>Quadron</string>
+				<key>SongDuration</key>
+				<string>3:22</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Wild        ALT 4</string>
+				<key>SongArtist</key>
+				<string>Jessie J ft. Big Sean</string>
+				<key>SongDuration</key>
+				<string>3:42</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Fine China    ALT 6</string>
+				<key>SongArtist</key>
+				<string>Chris Brown</string>
+				<key>SongDuration</key>
+				<string>4:39</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

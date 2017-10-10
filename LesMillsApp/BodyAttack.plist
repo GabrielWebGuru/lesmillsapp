@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYATTACK  88</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyAttack+88/104713885</string>
+		<key>PlaylistByService</key>
+		<dict>
+			<key>YouTube</key>
+			<string>https://www.youtube.com/playlist?list=PLb4x8eIyrCZfeDEN7wxOyjqwcfDXWkqtp</string>
+			<key>GrooveShark</key>
+			<string>http://grooveshark.com/playlist/BodyAttack+88/104713885</string>
+			<key>Spotify</key>
+			<string>https://open.spotify.com/user/simona.b/playlist/5ooDteWEYNlwqhnh60kjWb</string>
+		</dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>I Will Never Let You Down</string>
+				<key>SongArtist</key>
+				<string>Love Junkeez (RainDropz! meets Booty Boy Remix)</string>
+				<key>SongDuration</key>
+				<string>3:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Impact</string>
+				<key>SongTitle</key>
+				<string>Get Out (Classic Dance Mix)</string>
+				<key>SongArtist</key>
+				<string>De Grees feat. Cathy K</string>
+				<key>SongDuration</key>
+				<string>4:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Aerobic</string>
+				<key>SongTitle</key>
+				<string>Ghost (RainDropz! Remix)</string>
+				<key>SongArtist</key>
+				<string>Revolva</string>
+				<key>SongDuration</key>
+				<string>3:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>Back 2 Front (Original Mix)</string>
+				<key>SongArtist</key>
+				<string>Joel Fletcher &amp; Reece Low</string>
+				<key>SongDuration</key>
+				<string>5:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>Come Get It Bae</string>
+				<key>SongArtist</key>
+				<string>Poetry Alley</string>
+				<key>SongDuration</key>
+				<string>4:52</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Running</string>
+				<key>SongTitle</key>
+				<string>Wild Wild Love (RainDropz! Remix)</string>
+				<key>SongArtist</key>
+				<string>Stereo Slam</string>
+				<key>SongDuration</key>
+				<string>3:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Agility</string>
+				<key>SongTitle</key>
+				<string>#SELFIE</string>
+				<key>SongArtist</key>
+				<string>Atlantic Court</string>
+				<key>SongDuration</key>
+				<string>3:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Interval</string>
+				<key>SongTitle</key>
+				<string>Toca&apos;s Miracle</string>
+				<key>SongArtist</key>
+				<string>Unnamed Nova</string>
+				<key>SongDuration</key>
+				<string>3:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power</string>
+				<key>SongTitle</key>
+				<string>We Go Down</string>
+				<key>SongArtist</key>
+				<string>Heaven Acre</string>
+				<key>SongDuration</key>
+				<string>3:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>Lovers On The Sun (Sub Phonix Remix)</string>
+				<key>SongArtist</key>
+				<string>Electro Driverz</string>
+				<key>SongDuration</key>
+				<string>3:28</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Conditioning</string>
+				<key>SongTitle</key>
+				<string>Superheroes</string>
+				<key>SongArtist</key>
+				<string>The Script</string>
+				<key>SongDuration</key>
+				<string>4:05</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyAttack 87</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyAttack+87/102919896</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Don&apos;t You Want Me</string>
+				<key>SongArtist</key>
+				<string>Happy Zone</string>
+				<key>SongDuration</key>
+				<string>5:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Impact</string>
+				<key>SongTitle</key>
+				<string>Fancy</string>
+				<key>SongArtist</key>
+				<string>The Hydro Drawer</string>
+				<key>SongDuration</key>
+				<string>4:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Aerobic</string>
+				<key>SongTitle</key>
+				<string>Warrior (Nick Skitz &amp; Technoposse Rmx Edit)</string>
+				<key>SongArtist</key>
+				<string>Big Booty Bootleggerz</string>
+				<key>SongDuration</key>
+				<string>4:40</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>Weekend 2014 (Potatoheadz Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>Bad Habit Boys</string>
+				<key>SongDuration</key>
+				<string>5:15</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>Loco</string>
+				<key>SongArtist</key>
+				<string>Joel Fletcher &amp; Seany B</string>
+				<key>SongDuration</key>
+				<string>6:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Running</string>
+				<key>SongTitle</key>
+				<string>Good Vibrations (X-Cess! Remix Edit)</string>
+				<key>SongArtist</key>
+				<string>Botoxx &amp; Tom Belmond</string>
+				<key>SongDuration</key>
+				<string>4:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Agility</string>
+				<key>SongTitle</key>
+				<string>Make It Bounce (Joey Riot &amp; DJ Kurt Rmx)</string>
+				<key>SongArtist</key>
+				<string>Sy &amp; Unknown</string>
+				<key>SongDuration</key>
+				<string>4:52</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Interval</string>
+				<key>SongTitle</key>
+				<string>Shine Your Light (Basslovers United Edit)</string>
+				<key>SongArtist</key>
+				<string>Bass-T &amp; Friends</string>
+				<key>SongDuration</key>
+				<string>4:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power</string>
+				<key>SongTitle</key>
+				<string>Rock The Party</string>
+				<key>SongArtist</key>
+				<string>Nick Skitz &amp; Raverockerz ft. Brooklyn Bounce</string>
+				<key>SongDuration</key>
+				<string>5:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>When It Ends It Starts Again (Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>ATB ft. Sean Ryan</string>
+				<key>SongDuration</key>
+				<string>6:01</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Conditioning</string>
+				<key>SongTitle</key>
+				<string>Que Sera</string>
+				<key>SongArtist</key>
+				<string>Justice Crew</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cooldown</string>
+				<key>SongTitle</key>
+				<string>Loco</string>
+				<key>SongArtist</key>
+				<string>Joel Fletcher &amp; Seany B</string>
+				<key>SongDuration</key>
+				<string>4:36</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyAttack 86</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyAttack+86/100929533</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Happy (Nick Skitz &amp; Technoposse Remix) </string>
+				<key>SongArtist</key>
+				<string>B.R.O </string>
+				<key>SongDuration</key>
+				<string>5:51</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Impact</string>
+				<key>SongTitle</key>
+				<string>A Billion Lights </string>
+				<key>SongArtist</key>
+				<string>Outside Edge</string>
+				<key>SongDuration</key>
+				<string>4:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Aerobic</string>
+				<key>SongTitle</key>
+				<string>Timber (M3L0CR4Z3 Remix) </string>
+				<key>SongArtist</key>
+				<string>Stereo Slam </string>
+				<key>SongDuration</key>
+				<string>5:14</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>Eat Sleep Rave Repeat (Calvin Harris Remix)</string>
+				<key>SongArtist</key>
+				<string>Fatboy Slim &amp; Riva Starr ft. Beardyman </string>
+				<key>SongDuration</key>
+				<string>5:03</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>Satisfaction (Radio Edit) </string>
+				<key>SongArtist</key>
+				<string>Superclass </string>
+				<key>SongDuration</key>
+				<string>5:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Running</string>
+				<key>SongTitle</key>
+				<string>Counting Stars</string>
+				<key>SongArtist</key>
+				<string> Wishing Loud</string>
+				<key>SongDuration</key>
+				<string>4:10</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Agility</string>
+				<key>SongTitle</key>
+				<string>Booyah </string>
+				<key>SongArtist</key>
+				<string>Progression Loud</string>
+				<key>SongDuration</key>
+				<string>5:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Interval</string>
+				<key>SongTitle</key>
+				<string>Show Me Heaven</string>
+				<key>SongArtist</key>
+				<string>The Poetry</string>
+				<key>SongDuration</key>
+				<string>4:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power</string>
+				<key>SongTitle</key>
+				<string>Dark Horse (Hard Dance Alliance Mix) </string>
+				<key>SongArtist</key>
+				<string>Kerrie Scene </string>
+				<key>SongDuration</key>
+				<string>5:24</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Conditioning</string>
+				<key>SongTitle</key>
+				<string> If I Lose Myself </string>
+				<key>SongArtist</key>
+				<string>OneRepublic </string>
+				<key>SongDuration</key>
+				<string>4:01</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Conditioning</string>
+				<key>SongTitle</key>
+				<string>Dibby Dibby Sound (Radio Edit) </string>
+				<key>SongArtist</key>
+				<string>DJ Fresh and Jay Fay ft. Ms Dynamite</string>
+				<key>SongDuration</key>
+				<string>3:15</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cooldown</string>
+				<key>SongTitle</key>
+				<string>Rather Be (All About She Remix)</string>
+				<key>SongArtist</key>
+				<string>Clean Bandit feat. Jess Glynne</string>
+				<key>SongDuration</key>
+				<string>3:49</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyAttack 85</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyAttack+85/98283670</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Greenlight</string>
+				<key>SongArtist</key>
+				<string>DJ Sting</string>
+				<key>SongDuration</key>
+				<string>5:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Impact</string>
+				<key>SongTitle</key>
+				<string>Crash and Burn </string>
+				<key>SongArtist</key>
+				<string>Achy B</string>
+				<key>SongDuration</key>
+				<string>5:16</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Aerobic</string>
+				<key>SongTitle</key>
+				<string>Roar</string>
+				<key>SongArtist</key>
+				<string>MC Bumble</string>
+				<key>SongDuration</key>
+				<string>5:15</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>I Came Here To Party</string>
+				<key>SongArtist</key>
+				<string>Penny Turbo</string>
+				<key>SongDuration</key>
+				<string>5:38</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>Waterfalls </string>
+				<key>SongArtist</key>
+				<string>Timomatic</string>
+				<key>SongDuration</key>
+				<string>3:23</string>
+				<key>SongDuration2</key>
+				<string>0:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Running</string>
+				<key>SongTitle</key>
+				<string>Applause (Kris McTwain Remix) </string>
+				<key>SongArtist</key>
+				<string>Sweat Box</string>
+				<key>SongDuration</key>
+				<string>4:43</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Agility</string>
+				<key>SongTitle</key>
+				<string>The Roof Is On Fire</string>
+				<key>SongArtist</key>
+				<string>Elite Edge</string>
+				<key>SongDuration</key>
+				<string>4:33</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Interval</string>
+				<key>SongTitle</key>
+				<string>I Surrender (Hixxy Mix)</string>
+				<key>SongArtist</key>
+				<string>Cadence</string>
+				<key>SongDuration</key>
+				<string>4:57</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power</string>
+				<key>SongTitle</key>
+				<string>Summer Night In July</string>
+				<key>SongArtist</key>
+				<string>Incline Upon</string>
+				<key>SongDuration</key>
+				<string>5:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>We Are One</string>
+				<key>SongArtist</key>
+				<string>Krewella</string>
+				<key>SongDuration</key>
+				<string>4:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Conditioning</string>
+				<key>SongTitle</key>
+				<string>Everybody</string>
+				<key>SongArtist</key>
+				<string>Justice Crew</string>
+				<key>SongDuration</key>
+				<string>3:47</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cooldown</string>
+				<key>SongTitle</key>
+				<string>Celebration</string>
+				<key>SongArtist</key>
+				<string>Jupiter Project</string>
+				<key>SongDuration</key>
+				<string>3:15</string>
+			</dict>
+		</array>
+		<key>Item 1</key>
+		<dict>
+			<key>NameRelease</key>
+			<string>BodyAttack 86</string>
+			<key>PlaylistUrl</key>
+			<string>http://grooveshark.com/playlist/BodyAttack+85/98283670</string>
+			<key>tracks</key>
+			<array>
+				<dict>
+					<key>Exercise</key>
+					<string>Warmup</string>
+					<key>SongTitle</key>
+					<string>Happy (Nick Skitz &amp; Technoposse Remix) </string>
+					<key>SongArtist</key>
+					<string>B.R.O </string>
+					<key>SongDuration</key>
+					<string>5:51</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Mixed Impact</string>
+					<key>SongTitle</key>
+					<string>A Billion Lights </string>
+					<key>SongArtist</key>
+					<string>Outside Edge</string>
+					<key>SongDuration</key>
+					<string>4:34</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Aerobic</string>
+					<key>SongTitle</key>
+					<string>Timber (M3L0CR4Z3 Remix) </string>
+					<key>SongArtist</key>
+					<string>Stereo Slam </string>
+					<key>SongDuration</key>
+					<string>5:14</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Plyometric</string>
+					<key>SongTitle</key>
+					<string>Eat Sleep Rave Repeat (Calvin Harris Remix)</string>
+					<key>SongArtist</key>
+					<string>Fatboy Slim &amp; Riva Starr ft. Beardyman </string>
+					<key>SongDuration</key>
+					<string>5:03</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Upper Body Conditioning</string>
+					<key>SongTitle</key>
+					<string>Satisfaction (Radio Edit) </string>
+					<key>SongArtist</key>
+					<string>Superclass </string>
+					<key>SongDuration</key>
+					<string>5:07</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Running</string>
+					<key>SongTitle</key>
+					<string>Counting Stars</string>
+					<key>SongArtist</key>
+					<string> Wishing Loud</string>
+					<key>SongDuration</key>
+					<string>4:10</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Agility</string>
+					<key>SongTitle</key>
+					<string>Booyah </string>
+					<key>SongArtist</key>
+					<string>Progression Loud</string>
+					<key>SongDuration</key>
+					<string>5:05</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Interval</string>
+					<key>SongTitle</key>
+					<string>Show Me Heaven</string>
+					<key>SongArtist</key>
+					<string>The Poetry</string>
+					<key>SongDuration</key>
+					<string>4:49</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Power</string>
+					<key>SongTitle</key>
+					<string>Dark Horse (Hard Dance Alliance Mix) </string>
+					<key>SongArtist</key>
+					<string>Kerrie Scene </string>
+					<key>SongDuration</key>
+					<string>5:24</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Lower Body Conditioning</string>
+					<key>SongTitle</key>
+					<string> If I Lose Myself </string>
+					<key>SongArtist</key>
+					<string>OneRepublic </string>
+					<key>SongDuration</key>
+					<string>4:01</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Core Conditioning</string>
+					<key>SongTitle</key>
+					<string>Dibby Dibby Sound (Radio Edit) </string>
+					<key>SongArtist</key>
+					<string>DJ Fresh and Jay Fay ft. Ms Dynamite</string>
+					<key>SongDuration</key>
+					<string>3:15</string>
+				</dict>
+				<dict>
+					<key>Exercise</key>
+					<string>Cooldown</string>
+					<key>SongTitle</key>
+					<string>Rather Be (All About She Remix)</string>
+					<key>SongArtist</key>
+					<string>Clean Bandit feat. Jess Glynne</string>
+					<key>SongDuration</key>
+					<string>3:49</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyAttack 84</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyAttack+84/96380731</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Ligths On</string>
+				<key>SongArtist</key>
+				<string>Minty Where</string>
+				<key>SongDuration</key>
+				<string>5:00</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Impact</string>
+				<key>SongTitle</key>
+				<string>Wake Me Up (Red Devils Mix)</string>
+				<key>SongArtist</key>
+				<string>Dirty Sound System</string>
+				<key>SongDuration</key>
+				<string>4:43</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Aerobic</string>
+				<key>SongTitle</key>
+				<string>Crazy Kids (M3LOCR4Z3 Remix) </string>
+				<key>SongArtist</key>
+				<string>Diva Chain</string>
+				<key>SongDuration</key>
+				<string>5:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>Raver (Darren Styles Remix) </string>
+				<key>SongArtist</key>
+				<string>Ayah Marar</string>
+				<key>SongDuration</key>
+				<string>4:52</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>I’m In The House</string>
+				<key>SongArtist</key>
+				<string>The Free DJ’s</string>
+				<key>SongDuration</key>
+				<string>5:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Running</string>
+				<key>SongTitle</key>
+				<string>Feel The Love (Cahill Club Mix)</string>
+				<key>SongArtist</key>
+				<string>Cahill &amp; Kimberley Locke</string>
+				<key>SongDuration</key>
+				<string>4:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Agility</string>
+				<key>SongTitle</key>
+				<string>Zimma Frame</string>
+				<key>SongArtist</key>
+				<string>Along Fate</string>
+				<key>SongDuration</key>
+				<string>4:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Interval</string>
+				<key>SongTitle</key>
+				<string>DANGEROUS</string>
+				<key>SongArtist</key>
+				<string>The Romance</string>
+				<key>SongDuration</key>
+				<string>4:43</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power</string>
+				<key>SongTitle</key>
+				<string>This Is Nightlife</string>
+				<key>SongArtist</key>
+				<string>Italo Brothers</string>
+				<key>SongDuration</key>
+				<string>5:08</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Conditioning</string>
+				<key>SongTitle</key>
+				<string>Firestarter</string>
+				<key>SongArtist</key>
+				<string>Samantha Jade</string>
+				<key>SongDuration</key>
+				<string>3:08</string>
+				<key>SongDuration2</key>
+				<string>0:37</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Conditioning</string>
+				<key>SongTitle</key>
+				<string>Classic </string>
+				<key>SongArtist</key>
+				<string>MKTO</string>
+				<key>SongDuration</key>
+				<string>2:46</string>
+				<key>SongDuration2</key>
+				<string>0:59</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cooldown</string>
+				<key>SongTitle</key>
+				<string>On My Way (Radio Edit) </string>
+				<key>SongArtist</key>
+				<string>Charlie Brown</string>
+				<key>SongDuration</key>
+				<string>3:16</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

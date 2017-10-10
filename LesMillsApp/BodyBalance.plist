@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYBALANCE  68</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyBalance+68/104712253</string>
+		<key>PlaylistByService</key>
+		<dict>
+			<key>YouTube</key>
+			<string>https://www.youtube.com/playlist?list=PLb4x8eIyrCZeFm-wlVLWrpK76fH-zva6h</string>
+			<key>GrooveShark</key>
+			<string>http://grooveshark.com/playlist/BodyBalance+68/104712253</string>
+			<key>Spotify</key>
+			<string>https://open.spotify.com/user/simona.b/playlist/4LzkcEZTCdg90Sum0eLvdt</string>
+		</dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Tai Chi Warmup</string>
+				<key>SongTitle</key>
+				<string>Tessellate</string>
+				<key>SongArtist</key>
+				<string>Borderline Snake</string>
+				<key>SongDuration</key>
+				<string>3:03</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Sun Salutations</string>
+				<key>SongTitle</key>
+				<string>It Was Always You</string>
+				<key>SongArtist</key>
+				<string>Maroon 5</string>
+				<key>SongDuration</key>
+				<string>4:00</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strenght A</string>
+				<key>SongTitle</key>
+				<string>Of The Night</string>
+				<key>SongArtist</key>
+				<string>Bastille</string>
+				<key>SongDuration</key>
+				<string>3:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength B</string>
+				<key>SongTitle</key>
+				<string>Elastic Heart</string>
+				<key>SongArtist</key>
+				<string>Sia</string>
+				<key>SongDuration</key>
+				<string>4:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Balance</string>
+				<key>SongTitle</key>
+				<string>Glow</string>
+				<key>SongArtist</key>
+				<string>Ella Henderson</string>
+				<key>SongDuration</key>
+				<string>3:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hip Openers</string>
+				<key>SongTitle</key>
+				<string>Life Of The Party</string>
+				<key>SongArtist</key>
+				<string>Shawn Mendes</string>
+				<key>SongDuration</key>
+				<string>3:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs</string>
+				<key>SongTitle</key>
+				<string>Budapest</string>
+				<key>SongArtist</key>
+				<string>George Ezra</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs</string>
+				<key>SongTitle</key>
+				<string>Come Get It Bae</string>
+				<key>SongArtist</key>
+				<string>Pharrell Williams</string>
+				<key>SongDuration</key>
+				<string>3:22</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Back</string>
+				<key>SongTitle</key>
+				<string>Maps</string>
+				<key>SongArtist</key>
+				<string>Maroon 5</string>
+				<key>SongDuration</key>
+				<string>3:10</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Twists A</string>
+				<key>SongTitle</key>
+				<string>Don&apos;t Be Gone Too Long</string>
+				<key>SongArtist</key>
+				<string>Chris Brown</string>
+				<key>SongDuration</key>
+				<string>3:22</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Twists B</string>
+				<key>SongTitle</key>
+				<string>Pretty Hurts</string>
+				<key>SongArtist</key>
+				<string>Beyoncé</string>
+				<key>SongDuration</key>
+				<string>4:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>FWD Bends Harmstrings</string>
+				<key>SongTitle</key>
+				<string>Let It Be Me</string>
+				<key>SongArtist</key>
+				<string>Ray LaMontagne</string>
+				<key>SongDuration</key>
+				<string>4:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Relaxation/Meditation A</string>
+				<key>SongTitle</key>
+				<string>Angels Of Victory</string>
+				<key>SongArtist</key>
+				<string>Aeoliah</string>
+				<key>SongDuration</key>
+				<string>5:23</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyBalance 67</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyBalance+67/102903660</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Tai Chi Warmup</string>
+				<key>SongTitle</key>
+				<string>Stay High (Habits Remix)</string>
+				<key>SongArtist</key>
+				<string>Tove Lo ft. Hippie Sabotage</string>
+				<key>SongDuration</key>
+				<string>4:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Sun Salutations </string>
+				<key>SongTitle</key>
+				<string>Help Me Lose My Mind</string>
+				<key>SongArtist</key>
+				<string>Disclosure ft. London Grammar</string>
+				<key>SongDuration</key>
+				<string>3:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength A</string>
+				<key>SongTitle</key>
+				<string>Free</string>
+				<key>SongArtist</key>
+				<string>Rudimental ft. Emeli Sandè</string>
+				<key>SongDuration</key>
+				<string>4:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength B</string>
+				<key>SongTitle</key>
+				<string>XO</string>
+				<key>SongArtist</key>
+				<string>Rudimental ft. Emeli Sandè</string>
+				<key>SongDuration</key>
+				<string>3:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Balance</string>
+				<key>SongTitle</key>
+				<string>Stay With Me</string>
+				<key>SongArtist</key>
+				<string>Sam Smith</string>
+				<key>SongDuration</key>
+				<string>2:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hip Openers</string>
+				<key>SongTitle</key>
+				<string>Mirrors</string>
+				<key>SongArtist</key>
+				<string>Justin Timberlake</string>
+				<key>SongDuration</key>
+				<string>7:51</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs </string>
+				<key>SongTitle</key>
+				<string>Like I Can</string>
+				<key>SongArtist</key>
+				<string>Sam Smith</string>
+				<key>SongDuration</key>
+				<string>2:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs </string>
+				<key>SongTitle</key>
+				<string>Mine</string>
+				<key>SongArtist</key>
+				<string>Beyoncè ft. Drake</string>
+				<key>SongDuration</key>
+				<string>4:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Back</string>
+				<key>SongTitle</key>
+				<string>Not Over You</string>
+				<key>SongArtist</key>
+				<string>Gavin DeGraw</string>
+				<key>SongDuration</key>
+				<string>3:39</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Twists A</string>
+				<key>SongTitle</key>
+				<string>Into The Past</string>
+				<key>SongArtist</key>
+				<string>Nero</string>
+				<key>SongDuration</key>
+				<string>5:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Twists B</string>
+				<key>SongTitle</key>
+				<string>A Case Of You</string>
+				<key>SongArtist</key>
+				<string>James Blake</string>
+				<key>SongDuration</key>
+				<string>2:57</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>FWD Bends Hamstrings</string>
+				<key>SongTitle</key>
+				<string>Relax &amp; Sleep Better Healing Massage Spa</string>
+				<key>SongArtist</key>
+				<string>Chunky Happy</string>
+				<key>SongDuration</key>
+				<string>4:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Relaxation/Meditation A</string>
+				<key>SongTitle</key>
+				<string>Quiet Soul Ultimate Relaxation Spa Dreams</string>
+				<key>SongArtist</key>
+				<string>Hearty Young</string>
+				<key>SongDuration</key>
+				<string>3:02</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Relaxation/Meditation B</string>
+				<key>SongTitle</key>
+				<string>Canon In D Ultimate Piano Relaxation Massage</string>
+				<key>SongArtist</key>
+				<string>Hearty Young</string>
+				<key>SongDuration</key>
+				<string>2:05</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>    Bonus:Sad Machine              ALT 1</string>
+				<key>SongArtist</key>
+				<string>Porter Robinson</string>
+				<key>SongDuration</key>
+				<string>5:51</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyBalance 66</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyBalance+66/100990921</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Tai Chi Warmup</string>
+				<key>SongTitle</key>
+				<string>Bridges</string>
+				<key>SongArtist</key>
+				<string>Broods</string>
+				<key>SongDuration</key>
+				<string>2:36</string>
+				<key>SongDuration2</key>
+				<string>1:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Sun Salutations </string>
+				<key>SongTitle</key>
+				<string>Listen to Soul, Listen to Blues</string>
+				<key>SongArtist</key>
+				<string>Platinum Fortune</string>
+				<key>SongDuration</key>
+				<string>5:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength</string>
+				<key>SongTitle</key>
+				<string>Hold On</string>
+				<key>SongArtist</key>
+				<string>Colbie Caillat</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+				<key>SongDuration2</key>
+				<string>3:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Balance</string>
+				<key>SongTitle</key>
+				<string>Say Something</string>
+				<key>SongArtist</key>
+				<string>Jump Crusader</string>
+				<key>SongDuration</key>
+				<string>3:52</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hip Openers</string>
+				<key>SongTitle</key>
+				<string>Stolen</string>
+				<key>SongArtist</key>
+				<string>Dashboard Confessional</string>
+				<key>SongDuration</key>
+				<string>3:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs </string>
+				<key>SongTitle</key>
+				<string>Holdin On</string>
+				<key>SongArtist</key>
+				<string>Flume</string>
+				<key>SongDuration</key>
+				<string>2:32</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs </string>
+				<key>SongTitle</key>
+				<string>Come On, Get In </string>
+				<key>SongArtist</key>
+				<string>KT Tunstall</string>
+				<key>SongDuration</key>
+				<string>3:39</string>
+				<key>SongDuration2</key>
+				<string>1:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Back</string>
+				<key>SongTitle</key>
+				<string>Make you Mine</string>
+				<key>SongArtist</key>
+				<string>Benny Tipene</string>
+				<key>SongDuration</key>
+				<string>3:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Twists </string>
+				<key>SongTitle</key>
+				<string>Spaceship Coupe </string>
+				<key>SongArtist</key>
+				<string>Justin Timberlake</string>
+				<key>SongDuration</key>
+				<string>6:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>FWD Bends Hamstrings</string>
+				<key>SongTitle</key>
+				<string>Can’t Help Falling In Love</string>
+				<key>SongArtist</key>
+				<string>Ingrid Michaelson</string>
+				<key>SongDuration</key>
+				<string>3:14</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Relaxation/Meditation</string>
+				<key>SongTitle</key>
+				<string>Angels of Presence </string>
+				<key>SongArtist</key>
+				<string>Aeoliah</string>
+				<key>SongDuration</key>
+				<string>10:23</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyBalance 65</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyBalance+65/98279607</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Tai Chi Warmup</string>
+				<key>SongTitle</key>
+				<string>Dark Horse </string>
+				<key>SongArtist</key>
+				<string>Katy Perry ft.   Juicy J</string>
+				<key>SongDuration</key>
+				<string>2:24</string>
+				<key>SongDuration2</key>
+				<string>2:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Sun Salutations </string>
+				<key>SongTitle</key>
+				<string>Take Care</string>
+				<key>SongArtist</key>
+				<string>Drake ft. Rihanna</string>
+				<key>SongDuration</key>
+				<string>4:28</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength</string>
+				<key>SongTitle</key>
+				<string>Ordinary Love</string>
+				<key>SongArtist</key>
+				<string>Peaceful Gate</string>
+				<key>SongDuration</key>
+				<string>6:39</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Balance</string>
+				<key>SongTitle</key>
+				<string>Strange Birds</string>
+				<key>SongArtist</key>
+				<string>Birdy</string>
+				<key>SongDuration</key>
+				<string>2:56</string>
+				<key>SongDuration2</key>
+				<string>2:51</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hip Openers</string>
+				<key>SongTitle</key>
+				<string>Hold On, We’re Going Home</string>
+				<key>SongArtist</key>
+				<string>Drake ft. Majid Jordan</string>
+				<key>SongDuration</key>
+				<string>3:46</string>
+				<key>SongDuration2</key>
+				<string>3:50</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs </string>
+				<key>SongTitle</key>
+				<string>Happy</string>
+				<key>SongArtist</key>
+				<string>C2C ft. Derek Martin</string>
+				<key>SongDuration</key>
+				<string>4:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Back</string>
+				<key>SongTitle</key>
+				<string>Counting Stars</string>
+				<key>SongArtist</key>
+				<string>OneRepublic</string>
+				<key>SongDuration</key>
+				<string>4:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Twists </string>
+				<key>SongTitle</key>
+				<string>You</string>
+				<key>SongArtist</key>
+				<string>Nathaniel</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>FWD Bends Hamstrings</string>
+				<key>SongTitle</key>
+				<string>Falling Slowly</string>
+				<key>SongArtist</key>
+				<string>Glen Hansard &amp; Marketa Irglova</string>
+				<key>SongDuration</key>
+				<string>4:03</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>FWD Bends Hamstrings</string>
+				<key>SongTitle</key>
+				<string>How Long Will I Love You</string>
+				<key>SongArtist</key>
+				<string>Ellie Goulding</string>
+				<key>SongDuration</key>
+				<string>2:31</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Relaxation/Meditation</string>
+				<key>SongTitle</key>
+				<string>Open Spaces</string>
+				<key>SongArtist</key>
+				<string>Stanton Lanier</string>
+				<key>SongDuration</key>
+				<string>5:57</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Relaxation/Meditation</string>
+				<key>SongTitle</key>
+				<string>Imber</string>
+				<key>SongArtist</key>
+				<string>Rhian Sheehan</string>
+				<key>SongDuration</key>
+				<string>3:02</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>        Bonus:Myth                               ALT 2</string>
+				<key>SongArtist</key>
+				<string>Delerium</string>
+				<key>SongDuration</key>
+				<string>6:11</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyBalance 64</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyBalance+64/96380771</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Tai Chi Warmup</string>
+				<key>SongTitle</key>
+				<string>Extreme Ways</string>
+				<key>SongArtist</key>
+				<string>Moby </string>
+				<key>SongDuration</key>
+				<string>4:24</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Sun Salutations </string>
+				<key>SongTitle</key>
+				<string>BlackBird</string>
+				<key>SongArtist</key>
+				<string>Perception Free</string>
+				<key>SongDuration</key>
+				<string>5:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Standing Strength</string>
+				<key>SongTitle</key>
+				<string>Wonderwall</string>
+				<key>SongArtist</key>
+				<string>Pockets Skintight</string>
+				<key>SongDuration</key>
+				<string>6:16</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Balance</string>
+				<key>SongTitle</key>
+				<string>Somebody To Die For</string>
+				<key>SongArtist</key>
+				<string>Hurts</string>
+				<key>SongDuration</key>
+				<string>4:37</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hip Openers</string>
+				<key>SongTitle</key>
+				<string>Part II(On The Run)</string>
+				<key>SongArtist</key>
+				<string>Pistol of Zodiac</string>
+				<key>SongDuration</key>
+				<string>5:37</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Abs </string>
+				<key>SongTitle</key>
+				<string>Too Close </string>
+				<key>SongArtist</key>
+				<string>Alex Clare</string>
+				<key>SongDuration</key>
+				<string>3:52</string>
+				<key>SongDuration2</key>
+				<string>1:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core Back</string>
+				<key>SongTitle</key>
+				<string>Love Somebody</string>
+				<key>SongArtist</key>
+				<string>Maroon 5</string>
+				<key>SongDuration</key>
+				<string>3:52</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Twists </string>
+				<key>SongTitle</key>
+				<string>Tennis Court </string>
+				<key>SongArtist</key>
+				<string>Lorde</string>
+				<key>SongDuration</key>
+				<string>3:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>FWD Bends Hamstrings</string>
+				<key>SongTitle</key>
+				<string>Let Her Go</string>
+				<key>SongArtist</key>
+				<string>Passenger</string>
+				<key>SongDuration</key>
+				<string>4:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>FWD Bends Hamstrings</string>
+				<key>SongTitle</key>
+				<string>Big Eyes</string>
+				<key>SongArtist</key>
+				<string>Butterfly Thread </string>
+				<key>SongDuration</key>
+				<string>2:51</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Relaxation/Meditation</string>
+				<key>SongTitle</key>
+				<string>Sacred Group/Breathing Space</string>
+				<key>SongArtist</key>
+				<string>Sacred Earth</string>
+				<key>SongDuration</key>
+				<string>2:57</string>
+				<key>SongDuration2</key>
+				<string>7:07</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Part II (Instrumental)     ALT 5</string>
+				<key>SongArtist</key>
+				<string>Pistol OF Zodiac</string>
+				<key>SongDuration</key>
+				<string>5:37</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

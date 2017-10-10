@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYCOMBAT  63</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyCombat+63/104717446</string>
+		<key>PlaylistByService</key>
+		<dict>
+			<key>YouTube</key>
+			<string>https://www.youtube.com/playlist?list=PLb4x8eIyrCZeV6aMFbjyCobinvA7n_aa1</string>
+			<key>GrooveShark</key>
+			<string>http://grooveshark.com/playlist/BodyCombat+63/104717446</string>
+			<key>Spotify</key>
+			<string>https://open.spotify.com/user/simona.b/playlist/3lQTnBt9Q5FfbUcK2qMftl</string>
+		</dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Get Ready (Steve Aoki Vocal Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>2 Unlimited</string>
+				<key>SongDuration</key>
+				<string>2:55</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Survival Of The Fittest (Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>Coone</string>
+				<key>SongDuration</key>
+				<string>4:25</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 1</string>
+				<key>SongTitle</key>
+				<string>Badboi</string>
+				<key>SongArtist</key>
+				<string>Pegboard Nerds</string>
+				<key>SongDuration</key>
+				<string>3:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Training 1</string>
+				<key>SongTitle</key>
+				<string>Get A Way</string>
+				<key>SongArtist</key>
+				<string>Sporty Breed</string>
+				<key>SongDuration</key>
+				<string>3:47</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 2</string>
+				<key>SongTitle</key>
+				<string>Edge Of A Revolution</string>
+				<key>SongArtist</key>
+				<string>Nickelback</string>
+				<key>SongDuration</key>
+				<string>4:03</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Training 2</string>
+				<key>SongTitle</key>
+				<string>Holdin&apos; On Right Now</string>
+				<key>SongArtist</key>
+				<string>The Solar Rival</string>
+				<key>SongDuration</key>
+				<string>5:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 3</string>
+				<key>SongTitle</key>
+				<string>Fight The Resistance</string>
+				<key>SongArtist</key>
+				<string>Brennan Heart &amp; Zatox</string>
+				<key>SongDuration</key>
+				<string>4:54</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Muay Thai</string>
+				<key>SongTitle</key>
+				<string>Dead!</string>
+				<key>SongArtist</key>
+				<string>My Chemical Romance</string>
+				<key>SongDuration</key>
+				<string>3:16</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Training 3B</string>
+				<key>SongTitle</key>
+				<string>Shine (JBC Remix)</string>
+				<key>SongArtist</key>
+				<string>Geos Crew feat. Zara</string>
+				<key>SongDuration</key>
+				<string>6:55</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Conditioning</string>
+				<key>SongTitle</key>
+				<string>Three Strikes</string>
+				<key>SongArtist</key>
+				<string>Afrojack feat. Jack McManus</string>
+				<key>SongDuration</key>
+				<string>4:56</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down</string>
+				<key>SongTitle</key>
+				<string>A New Way To Bleed (Photek Remix)</string>
+				<key>SongArtist</key>
+				<string>Evanescence</string>
+				<key>SongDuration</key>
+				<string>3:46</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyCombat 62</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyCombat+62/102987008</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Someone Like You (Kris McTwain Radio Edit)</string>
+				<key>SongArtist</key>
+				<string>N-Finity	</string>
+				<key>SongDuration</key>
+				<string>4:50</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Home Alone (Invader! Rmx Edit)</string>
+				<key>SongArtist</key>
+				<string>Vanilla Kiss</string>
+				<key>SongDuration</key>
+				<string>2:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 1</string>
+				<key>SongTitle</key>
+				<string>Famous Last Words</string>
+				<key>SongArtist</key>
+				<string>The Wrapper	</string>
+				<key>SongDuration</key>
+				<string>3:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 1</string>
+				<key>SongTitle</key>
+				<string>Give A Little Love</string>
+				<key>SongArtist</key>
+				<string>Al Storm &amp; Euphony</string>
+				<key>SongDuration</key>
+				<string>4:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 2 </string>
+				<key>SongTitle</key>
+				<string>Dark Horse (Hard Dance Alliance Mix)</string>
+				<key>SongArtist</key>
+				<string>Kerrie Scene</string>
+				<key>SongDuration</key>
+				<string>6:43</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 2</string>
+				<key>SongTitle</key>
+				<string>Crash</string>
+				<key>SongArtist</key>
+				<string>Al Storm</string>
+				<key>SongDuration</key>
+				<string>4:33</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 3</string>
+				<key>SongTitle</key>
+				<string>Y.A.L.A.</string>
+				<key>SongArtist</key>
+				<string>M.I.A</string>
+				<key>SongDuration</key>
+				<string>1:59</string>
+				<key>SongDuration2</key>
+				<string>2:00</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Muay Thai</string>
+				<key>SongTitle</key>
+				<string>Let The Beat Go (Single)</string>
+				<key>SongArtist</key>
+				<string>S3RL ft. Johnny</string>
+				<key>SongDuration</key>
+				<string>7:56</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 3A</string>
+				<key>SongTitle</key>
+				<string>Power Of Love</string>
+				<key>SongArtist</key>
+				<string>Absolutely Elegant</string>
+				<key>SongDuration</key>
+				<string>6:59</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 3B </string>
+				<key>SongTitle</key>
+				<string>Give A Little Love</string>
+				<key>SongArtist</key>
+				<string>Al Storm &amp; Euphony</string>
+				<key>SongDuration</key>
+				<string>0:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Conditioning</string>
+				<key>SongTitle</key>
+				<string>3 Kingz (Single)</string>
+				<key>SongArtist</key>
+				<string>Major G.A.U.G.E ft. Hunger &amp; Qwote</string>
+				<key>SongDuration</key>
+				<string>4:54</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down</string>
+				<key>SongTitle</key>
+				<string>I Was Here</string>
+				<key>SongArtist</key>
+				<string>Beyoncè</string>
+				<key>SongDuration</key>
+				<string>3:59</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyCombat 61</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyCombat+61/101073735</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Wrecking Ball (MaLu Project Rmx Edit)</string>
+				<key>SongArtist</key>
+				<string>Pop Pistols</string>
+				<key>SongDuration</key>
+				<string>4:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Beautiful Monster (Damn-R Rmx)</string>
+				<key>SongArtist</key>
+				<string>Mick Lion</string>
+				<key>SongDuration</key>
+				<string>5:10</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 1</string>
+				<key>SongTitle</key>
+				<string>Shot Me Down </string>
+				<key>SongArtist</key>
+				<string>Up Despair</string>
+				<key>SongDuration</key>
+				<string>4:02</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 1</string>
+				<key>SongTitle</key>
+				<string>Every Breath You Take</string>
+				<key>SongArtist</key>
+				<string>Praying Hunk </string>
+				<key>SongDuration</key>
+				<string>5:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 2 </string>
+				<key>SongTitle</key>
+				<string>So What! (M Edit)</string>
+				<key>SongArtist</key>
+				<string>Independence Days</string>
+				<key>SongDuration</key>
+				<string>5:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 2</string>
+				<key>SongTitle</key>
+				<string>Stairway To Heaven (Original Mix)</string>
+				<key>SongArtist</key>
+				<string>Modulate &amp; Petruccio</string>
+				<key>SongDuration</key>
+				<string>6:28</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 3</string>
+				<key>SongTitle</key>
+				<string>Get Low</string>
+				<key>SongArtist</key>
+				<string>Dillon Francis &amp; DJ Snake</string>
+				<key>SongDuration</key>
+				<string>3:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Muay Thai</string>
+				<key>SongTitle</key>
+				<string>Ready To Rock</string>
+				<key>SongArtist</key>
+				<string>Airbourne</string>
+				<key>SongDuration</key>
+				<string>3:52</string>
+				<key>SongDuration2</key>
+				<string>3:51</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 3</string>
+				<key>SongTitle</key>
+				<string>Like a Rainbow (Sy &amp; Unknow Remix)</string>
+				<key>SongArtist</key>
+				<string>Recon &amp; Demand ft. Mandy Edge</string>
+				<key>SongDuration</key>
+				<string>7:47</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Conditioning</string>
+				<key>SongTitle</key>
+				<string>Watch Out For This (Bumaye)</string>
+				<key>SongArtist</key>
+				<string>Since Ten</string>
+				<key>SongDuration</key>
+				<string>3:55</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool down</string>
+				<key>SongTitle</key>
+				<string>Heart of a Warrior</string>
+				<key>SongArtist</key>
+				<string>Dizzee Rascal ft. Teddy Sky</string>
+				<key>SongDuration</key>
+				<string>3:15</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyCombat 60</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyCombat+60/98286677</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Hit Me With Your Best Shot (BassLouder Rmx)</string>
+				<key>SongArtist</key>
+				<string>Neon Ninja</string>
+				<key>SongDuration</key>
+				<string>4:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Roar (Bass Rayders Remix Edit)</string>
+				<key>SongArtist</key>
+				<string>Hot Cherry</string>
+				<key>SongDuration</key>
+				<string>5:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 1</string>
+				<key>SongTitle</key>
+				<string>Black or White (Combat Remix)</string>
+				<key>SongArtist</key>
+				<string>The Treat Ring</string>
+				<key>SongDuration</key>
+				<string>3:16</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 1</string>
+				<key>SongTitle</key>
+				<string>Fly Away</string>
+				<key>SongArtist</key>
+				<string>Deer Between</string>
+				<key>SongDuration</key>
+				<string>5:25</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 2 </string>
+				<key>SongTitle</key>
+				<string>Emergency(Clockwork Remix)</string>
+				<key>SongArtist</key>
+				<string>Steve Aoki ft. Lil Jon, Chiddy Ban</string>
+				<key>SongDuration</key>
+				<string>4:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 2</string>
+				<key>SongTitle</key>
+				<string>Rise Again (Sy and Unknown Remix)</string>
+				<key>SongArtist</key>
+				<string>Breeze v Lost Witness</string>
+				<key>SongDuration</key>
+				<string>5:01</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 3</string>
+				<key>SongTitle</key>
+				<string>What’s Love (Kandy Man Remix Edit)</string>
+				<key>SongArtist</key>
+				<string>Ste Ingham and Nick Stitz</string>
+				<key>SongDuration</key>
+				<string>4:47</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Muay Thai</string>
+				<key>SongTitle</key>
+				<string>Kryptonite </string>
+				<key>SongArtist</key>
+				<string>Proof Luke</string>
+				<key>SongDuration</key>
+				<string>6:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 3</string>
+				<key>SongTitle</key>
+				<string>Sunshine On a Cloudy Day (Eufeion Remix)</string>
+				<key>SongArtist</key>
+				<string>Bang!</string>
+				<key>SongDuration</key>
+				<string>6:29</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 3</string>
+				<key>SongTitle</key>
+				<string>Black Or White (combat Remix)</string>
+				<key>SongArtist</key>
+				<string>The Treat Ring</string>
+				<key>SongDuration</key>
+				<string>0:24</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Conditioning</string>
+				<key>SongTitle</key>
+				<string>You’re the Best</string>
+				<key>SongArtist</key>
+				<string>Blazed Calm</string>
+				<key>SongDuration</key>
+				<string>4:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool down</string>
+				<key>SongTitle</key>
+				<string>Now We are Free</string>
+				<key>SongArtist</key>
+				<string>Lisa Kelly</string>
+				<key>SongDuration</key>
+				<string>3:26</string>
+				<key>SongDuration2</key>
+				<string>1:19</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Every Rose Has Its Thorn               ALT 1</string>
+				<key>SongArtist</key>
+				<string>Nick Stitz</string>
+				<key>SongDuration</key>
+				<string>4:10</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus: Roar (Bass Rayders Rmx Edit)           ALT 2</string>
+				<key>SongArtist</key>
+				<string>Hot Cherry</string>
+				<key>SongDuration</key>
+				<string>5:41</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BodyCombat 59</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyCombat+59/96382324</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Upper Body Warmup</string>
+				<key>SongTitle</key>
+				<string>I Knew You Were Trouble (DRM Remix)</string>
+				<key>SongArtist</key>
+				<string>Girls Only</string>
+				<key>SongDuration</key>
+				<string>4:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Warmup</string>
+				<key>SongTitle</key>
+				<string>Everything about you</string>
+				<key>SongArtist</key>
+				<string>SupaHit</string>
+				<key>SongDuration</key>
+				<string>4:33</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 1</string>
+				<key>SongTitle</key>
+				<string>Danger Zone</string>
+				<key>SongArtist</key>
+				<string>International Outlaw</string>
+				<key>SongDuration</key>
+				<string>4:14</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 1</string>
+				<key>SongTitle</key>
+				<string>Be The One</string>
+				<key>SongArtist</key>
+				<string>Hixxy, Sy and Unknown</string>
+				<key>SongDuration</key>
+				<string>5:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 2 </string>
+				<key>SongTitle</key>
+				<string>A Warrior’s Call </string>
+				<key>SongArtist</key>
+				<string>Volbeat</string>
+				<key>SongDuration</key>
+				<string>2:43</string>
+				<key>SongDuration2</key>
+				<string>2:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 2</string>
+				<key>SongTitle</key>
+				<string>Bright Like The Sun</string>
+				<key>SongArtist</key>
+				<string>Sy and Unknown Ft. Kirsten Joy</string>
+				<key>SongDuration</key>
+				<string>6:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Combat 3</string>
+				<key>SongTitle</key>
+				<string>Danger Zone</string>
+				<key>SongArtist</key>
+				<string>K Drew</string>
+				<key>SongDuration</key>
+				<string>4:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Muay Thai</string>
+				<key>SongTitle</key>
+				<string>Lost in the Space </string>
+				<key>SongArtist</key>
+				<string>The Original Movies Orchestra</string>
+				<key>SongDuration</key>
+				<string>5:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 3</string>
+				<key>SongTitle</key>
+				<string>Falling From The Sky</string>
+				<key>SongArtist</key>
+				<string>Hixxy, Dave Castellano&amp;Fat Steve</string>
+				<key>SongDuration</key>
+				<string>7:00</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power training 3</string>
+				<key>SongTitle</key>
+				<string>Lost In Space</string>
+				<key>SongArtist</key>
+				<string>The Original Movies Orchestra</string>
+				<key>SongDuration</key>
+				<string>0:29</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Conditioning</string>
+				<key>SongTitle</key>
+				<string>Do Or Die</string>
+				<key>SongArtist</key>
+				<string>Flux Pavilion ft. Childish Gambino</string>
+				<key>SongDuration</key>
+				<string>4:03</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool down</string>
+				<key>SongTitle</key>
+				<string>Fleurs Du Mal</string>
+				<key>SongArtist</key>
+				<string>Sarah Brightman </string>
+				<key>SongDuration</key>
+				<string>4:10</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

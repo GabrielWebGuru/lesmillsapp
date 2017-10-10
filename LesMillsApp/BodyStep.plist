@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYSTEP 98</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyStep+98/102949267</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Come &amp; Get It</string>
+				<key>SongArtist</key>
+				<string>Man Rhythm</string>
+				<key>SongDuration</key>
+				<string>5:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Warmup</string>
+				<key>SongTitle</key>
+				<string>Sing</string>
+				<key>SongArtist</key>
+				<string>Spectacular Movement</string>
+				<key>SongDuration</key>
+				<string>3:36</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation</string>
+				<key>SongTitle</key>
+				<string>Like A Drum</string>
+				<key>SongArtist</key>
+				<string>Man Lion</string>
+				<key>SongDuration</key>
+				<string>3:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation Athletic</string>
+				<key>SongTitle</key>
+				<string>Not Giving In</string>
+				<key>SongArtist</key>
+				<string>Inferior Of The Slow</string>
+				<key>SongDuration</key>
+				<string>0:52</string>
+				<key>SongDuration2</key>
+				<string>1:12</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation Athletic</string>
+				<key>SongTitle</key>
+				<string>Promises</string>
+				<key>SongArtist</key>
+				<string>Younger Laugh</string>
+				<key>SongDuration</key>
+				<string>1:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Athletic</string>
+				<key>SongTitle</key>
+				<string>Brick By Boring Brick</string>
+				<key>SongArtist</key>
+				<string>Borderline Cool</string>
+				<key>SongDuration</key>
+				<string>4:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Strenght</string>
+				<key>SongTitle</key>
+				<string>Bad</string>
+				<key>SongArtist</key>
+				<string>Perfecting Cool</string>
+				<key>SongDuration</key>
+				<string>5:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Peak</string>
+				<key>SongTitle</key>
+				<string>Love Runs Out</string>
+				<key>SongArtist</key>
+				<string>The Fast Isle</string>
+				<key>SongDuration</key>
+				<string>5:25</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Recovery</string>
+				<key>SongTitle</key>
+				<string>Whatever We Want</string>
+				<key>SongArtist</key>
+				<string>Guiltless Bite</string>
+				<key>SongDuration</key>
+				<string>3:47</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Party Step</string>
+				<key>SongTitle</key>
+				<string>Problem</string>
+				<key>SongArtist</key>
+				<string>The Musical Directory</string>
+				<key>SongDuration</key>
+				<string>4:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Step</string>
+				<key>SongTitle</key>
+				<string>Natalie</string>
+				<key>SongArtist</key>
+				<string>Laugh Location</string>
+				<key>SongDuration</key>
+				<string>4:17</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak</string>
+				<key>SongTitle</key>
+				<string>Shut Up And Kiss Me</string>
+				<key>SongArtist</key>
+				<string>System Calm</string>
+				<key>SongDuration</key>
+				<string>5:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>AC Athletic Circuit</string>
+				<key>SongTitle</key>
+				<string>#thatPOWER</string>
+				<key>SongArtist</key>
+				<string>The Unfinished Fit</string>
+				<key>SongDuration</key>
+				<string>1:07</string>
+				<key>SongDuration2</key>
+				<string>1:16</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>AC Athletic Circuit</string>
+				<key>SongTitle</key>
+				<string>Ring of Fire</string>
+				<key>SongArtist</key>
+				<string>Revisited Ace</string>
+				<key>SongDuration</key>
+				<string>1:00</string>
+				<key>SongDuration2</key>
+				<string>1:05</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>AC Athletic Circuit</string>
+				<key>SongTitle</key>
+				<string>Promises</string>
+				<key>SongArtist</key>
+				<string>Revisited Ace</string>
+				<key>SongDuration</key>
+				<string>2:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Recovery/Conditioning</string>
+				<key>SongTitle</key>
+				<string>Chandelier</string>
+				<key>SongArtist</key>
+				<string>Twinkie Of Time</string>
+				<key>SongDuration</key>
+				<string>5:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down/Stretch  </string>
+				<key>SongTitle</key>
+				<string>The Man</string>
+				<key>SongArtist</key>
+				<string>Aloe Blacc</string>
+				<key>SongDuration</key>
+				<string>4:15</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYSTEP 97</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyStep+97/101003833</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>All The Right Moves</string>
+				<key>SongArtist</key>
+				<string>Eleven Coaster </string>
+				<key>SongDuration</key>
+				<string>4:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Warmup</string>
+				<key>SongTitle</key>
+				<string>White Walls</string>
+				<key>SongArtist</key>
+				<string>Beyond Introduction</string>
+				<key>SongDuration</key>
+				<string>3:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation</string>
+				<key>SongTitle</key>
+				<string>American Girl</string>
+				<key>SongArtist</key>
+				<string>Three Goblins</string>
+				<key>SongDuration</key>
+				<string>4:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation Athletic</string>
+				<key>SongTitle</key>
+				<string>Let&apos;s Get Ridiculous </string>
+				<key>SongArtist</key>
+				<string>Bella Zapped</string>
+				<key>SongDuration</key>
+				<string>0:58</string>
+				<key>SongDuration2</key>
+				<string>1:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation Athletic</string>
+				<key>SongTitle</key>
+				<string>Take Me Home </string>
+				<key>SongArtist</key>
+				<string>Strong Ring </string>
+				<key>SongDuration</key>
+				<string>1:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Athletic</string>
+				<key>SongTitle</key>
+				<string>Walk Of Shame</string>
+				<key>SongArtist</key>
+				<string>Searching Ring </string>
+				<key>SongDuration</key>
+				<string>5:50</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Strenght</string>
+				<key>SongTitle</key>
+				<string>Swing </string>
+				<key>SongArtist</key>
+				<string>The Pumping Four</string>
+				<key>SongDuration</key>
+				<string>5:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Peak</string>
+				<key>SongTitle</key>
+				<string>I Don&apos;t Wanna Be In Love (Dance Floor Anthem)</string>
+				<key>SongArtist</key>
+				<string>Twin Image</string>
+				<key>SongDuration</key>
+				<string>5:09</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Recovery</string>
+				<key>SongTitle</key>
+				<string>Neon Lights</string>
+				<key>SongArtist</key>
+				<string>Wednesday Excess</string>
+				<key>SongDuration</key>
+				<string>3:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Party Step</string>
+				<key>SongTitle</key>
+				<string>Move</string>
+				<key>SongArtist</key>
+				<string>Unnamed Cage</string>
+				<key>SongDuration</key>
+				<string>5:25</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Step</string>
+				<key>SongTitle</key>
+				<string>Magic</string>
+				<key>SongArtist</key>
+				<string>Highly Baneful</string>
+				<key>SongDuration</key>
+				<string>4:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak</string>
+				<key>SongTitle</key>
+				<string>Shut Up And Kiss Me</string>
+				<key>SongArtist</key>
+				<string>Shaken Cause</string>
+				<key>SongDuration</key>
+				<string>4:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>AC Athletic Circuit</string>
+				<key>SongTitle</key>
+				<string>Propane Nightmares</string>
+				<key>SongArtist</key>
+				<string>Beside Yellow</string>
+				<key>SongDuration</key>
+				<string>0:56</string>
+				<key>SongDuration2</key>
+				<string>0:55</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>AC Athletic Circuit</string>
+				<key>SongTitle</key>
+				<string>Let&apos;s Get Ridiculous</string>
+				<key>SongArtist</key>
+				<string>Modest Lava</string>
+				<key>SongDuration</key>
+				<string>0:57</string>
+				<key>SongDuration2</key>
+				<string>1:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Recovery/Conditioning</string>
+				<key>SongTitle</key>
+				<string>Dark Horse</string>
+				<key>SongArtist</key>
+				<string>Cash Manifold</string>
+				<key>SongDuration</key>
+				<string>6:12</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down/Stretch  </string>
+				<key>SongTitle</key>
+				<string>Please And Change</string>
+				<key>SongArtist</key>
+				<string>Addictive Grace</string>
+				<key>SongDuration</key>
+				<string>3:09</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYSTEP 96</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyStep+96/98368820</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Get on It </string>
+				<key>SongArtist</key>
+				<string>Confidential Fit</string>
+				<key>SongDuration</key>
+				<string>4:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Warmup</string>
+				<key>SongTitle</key>
+				<string>Classic</string>
+				<key>SongArtist</key>
+				<string>Vast Symbol </string>
+				<key>SongDuration</key>
+				<string>4:14</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation</string>
+				<key>SongTitle</key>
+				<string>It&apos;s My Party</string>
+				<key>SongArtist</key>
+				<string>The Playing Goo</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Athletic</string>
+				<key>SongTitle</key>
+				<string>A Woman&apos;s Got the Power</string>
+				<key>SongArtist</key>
+				<string>Overboard Optional</string>
+				<key>SongDuration</key>
+				<string>3:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Athletic</string>
+				<key>SongTitle</key>
+				<string>Gorilla </string>
+				<key>SongArtist</key>
+				<string>The Vocal Alignment </string>
+				<key>SongDuration</key>
+				<string>5:13</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Strenght</string>
+				<key>SongTitle</key>
+				<string>Werk Me</string>
+				<key>SongArtist</key>
+				<string>Hooked Count</string>
+				<key>SongDuration</key>
+				<string>2:29</string>
+				<key>SongDuration2</key>
+				<string>1:38</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Strenght</string>
+				<key>SongTitle</key>
+				<string>Jump</string>
+				<key>SongArtist</key>
+				<string>Vanilla Rampant </string>
+				<key>SongDuration</key>
+				<string>0:43</string>
+				<key>SongDuration2</key>
+				<string>1:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Peak</string>
+				<key>SongTitle</key>
+				<string>Smells Like Teen Spirit</string>
+				<key>SongArtist</key>
+				<string>Near Shake </string>
+				<key>SongDuration</key>
+				<string>4:40</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Recovery</string>
+				<key>SongTitle</key>
+				<string>Still Into You</string>
+				<key>SongArtist</key>
+				<string>Hendrix Shaped </string>
+				<key>SongDuration</key>
+				<string>3:52</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Party Step</string>
+				<key>SongTitle</key>
+				<string>Live It Up</string>
+				<key>SongArtist</key>
+				<string>Peach and Terry</string>
+				<key>SongDuration</key>
+				<string>4:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Step</string>
+				<key>SongTitle</key>
+				<string>Rythm Of The Night</string>
+				<key>SongArtist</key>
+				<string>Necro Alive </string>
+				<key>SongDuration</key>
+				<string>3:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak</string>
+				<key>SongTitle</key>
+				<string>Work Me Down </string>
+				<key>SongArtist</key>
+				<string>Stormy Gold</string>
+				<key>SongDuration</key>
+				<string>5:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Conditioning</string>
+				<key>SongTitle</key>
+				<string>Wrecking Ball </string>
+				<key>SongArtist</key>
+				<string>Wave Walker</string>
+				<key>SongDuration</key>
+				<string>5:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down  </string>
+				<key>SongTitle</key>
+				<string>Keep Your Head Up</string>
+				<key>SongArtist</key>
+				<string>Andy Grammer</string>
+				<key>SongDuration</key>
+				<string>3:09</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus Athletic Circuit:Love Me Again</string>
+				<key>SongArtist</key>
+				<string>Recovered Junk</string>
+				<key>SongDuration</key>
+				<string>1:11</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus Athletic Circuit:Badman Riddim         </string>
+				<key>SongArtist</key>
+				<string>Vato Gonzalez</string>
+				<key>SongDuration</key>
+				<string>2:16</string>
+			</dict>
+			<dict>
+				<key>BonuSong</key>
+				<string>Bonus Athletic Circuit:Jump</string>
+				<key>SongArtist</key>
+				<string>Vanilla Rampant</string>
+				<key>SongDuration</key>
+				<string>2:28</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYSTEP 95</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyStep+95/96386764</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>The Other Side</string>
+				<key>SongArtist</key>
+				<string>Six Ten</string>
+				<key>SongDuration</key>
+				<string>4:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Warmup</string>
+				<key>SongTitle</key>
+				<string>Treasure</string>
+				<key>SongArtist</key>
+				<string>Ice Blowout</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Orientation</string>
+				<key>SongTitle</key>
+				<string>Turn Up The Music</string>
+				<key>SongArtist</key>
+				<string>Intense Dunk</string>
+				<key>SongDuration</key>
+				<string>4:22</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Athletic</string>
+				<key>SongTitle</key>
+				<string>The Only Hero</string>
+				<key>SongArtist</key>
+				<string>Head Rush</string>
+				<key>SongDuration</key>
+				<string>1:38</string>
+				<key>SongDuration2</key>
+				<string>0:42</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Mixed Strenght</string>
+				<key>SongTitle</key>
+				<string>Scream</string>
+				<key>SongArtist</key>
+				<string>The Brotherhood</string>
+				<key>SongDuration</key>
+				<string>1:00 </string>
+				<key>SongDuration2</key>
+				<string>1:02</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Peak</string>
+				<key>SongTitle</key>
+				<string>Parachute</string>
+				<key>SongArtist</key>
+				<string>Intuition Chop</string>
+				<key>SongDuration</key>
+				<string>5:07</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Recovery</string>
+				<key>SongTitle</key>
+				<string>I Don&apos;t Like You</string>
+				<key>SongArtist</key>
+				<string>Comet And The Outcome</string>
+				<key>SongDuration</key>
+				<string>1:00</string>
+				<key>SongDuration2</key>
+				<string>0:29</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Step Recovery</string>
+				<key>SongTitle</key>
+				<string>Rest Of My Life</string>
+				<key>SongArtist</key>
+				<string>The Lost Crumb</string>
+				<key>SongDuration</key>
+				<string>1:33</string>
+				<key>SongDuration2</key>
+				<string>1:33</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Speed Step</string>
+				<key>SongTitle</key>
+				<string>Kickstart My Heart</string>
+				<key>SongArtist</key>
+				<string>Purely South</string>
+				<key>SongDuration</key>
+				<string>5:24</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak</string>
+				<key>SongTitle</key>
+				<string>What About Us</string>
+				<key>SongArtist</key>
+				<string>Unwound Sphere</string>
+				<key>SongDuration</key>
+				<string>3:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Recovery Conditioning</string>
+				<key>SongTitle</key>
+				<string>Turn Up The Love</string>
+				<key>SongArtist</key>
+				<string>The Teamwork</string>
+				<key>SongDuration</key>
+				<string>4:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down  Stretch</string>
+				<key>SongTitle</key>
+				<string>Here&apos;s To Never Growing Up</string>
+				<key>SongArtist</key>
+				<string>Introspection Enabler</string>
+				<key>SongDuration</key>
+				<string>3:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down  Stretch</string>
+				<key>SongTitle</key>
+				<string>Roar</string>
+				<key>SongArtist</key>
+				<string>The Optic Velocity</string>
+				<key>SongDuration</key>
+				<string>4:32</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Athletic Circuit </string>
+				<key>SongTitle</key>
+				<string>Waiting All Night</string>
+				<key>SongArtist</key>
+				<string>Ripping Feral</string>
+				<key>SongDuration</key>
+				<string>1:03</string>
+				<key>SongDuration2</key>
+				<string>1:01</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Athletic Circuit </string>
+				<key>SongTitle</key>
+				<string>She Wolf (Falling To Pieces)</string>
+				<key>SongArtist</key>
+				<string>The Good Shamrock</string>
+				<key>SongDuration</key>
+				<string>0:41</string>
+				<key>SongDuration2</key>
+				<string>0:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Athletic Circuit </string>
+				<key>SongTitle</key>
+				<string>Sending My Love</string>
+				<key>SongArtist</key>
+				<string>Ageless Gravy</string>
+				<key>SongDuration</key>
+				<string>3:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Conditioning</string>
+				<key>SongTitle</key>
+				<string>Only You</string>
+				<key>SongArtist</key>
+				<string>The Yellow Andrew</string>
+				<key>SongDuration</key>
+				<string>5:11</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cool Down</string>
+				<key>SongTitle</key>
+				<string>Change Your Life</string>
+				<key>SongArtist</key>
+				<string>Little Mix</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

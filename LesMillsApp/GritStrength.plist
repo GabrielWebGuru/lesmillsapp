@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>GRIT STRENGTH 11</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/GRIT+Strength+11/103243478</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Accelerated Warmup</string>
+				<key>SongTitle</key>
+				<string>Summer</string>
+				<key>SongArtist</key>
+				<string>Calvin Harris</string>
+				<key>SongDuration</key>
+				<string>2:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Complex Training</string>
+				<key>SongTitle</key>
+				<string>D!rty Aud!o</string>
+				<key>SongArtist</key>
+				<string>Along Approximation</string>
+				<key>SongDuration</key>
+				<string>1:30</string>
+				<key>SongDuration2</key>
+				<string>2:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Resisted Power Blocks</string>
+				<key>SongTitle</key>
+				<string>Fresh</string>
+				<key>SongArtist</key>
+				<string>The Follower Project</string>
+				<key>SongDuration</key>
+				<string>2:00</string>
+				<key>SongDuration2</key>
+				<string>1:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Power Blocks</string>
+				<key>SongTitle</key>
+				<string>Zilla</string>
+				<key>SongArtist</key>
+				<string>Vivid Harvest</string>
+				<key>SongDuration</key>
+				<string>1:20</string>
+				<key>SongDuration2</key>
+				<string>1:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Strength Training</string>
+				<key>SongTitle</key>
+				<string>Revolusion</string>
+				<key>SongArtist</key>
+				<string>Fast Scope</string>
+				<key>SongDuration</key>
+				<string>2:45</string>
+				<key>SongDuration2</key>
+				<string>2:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Strength Training</string>
+				<key>SongTitle</key>
+				<string>Out Of Sight</string>
+				<key>SongArtist</key>
+				<string>The Bloody Beetroots ft. Paul McCartney &amp; Youth</string>
+				<key>SongDuration</key>
+				<string>2:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Maximum Effort</string>
+				<key>SongTitle</key>
+				<string>Rambo (Hardwell Edit)</string>
+				<key>SongArtist</key>
+				<string>Deorro &amp; J-Trick</string>
+				<key>SongDuration</key>
+				<string>1:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>The Way We Do It</string>
+				<key>SongArtist</key>
+				<string>The Tuxedo</string>
+				<key>SongDuration</key>
+				<string>3:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Music Outro</string>
+				<key>SongTitle</key>
+				<string>Higher</string>
+				<key>SongArtist</key>
+				<string>The Older Style</string>
+				<key>SongDuration</key>
+				<string>0:34</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

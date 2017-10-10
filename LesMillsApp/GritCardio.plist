@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>GRIT PLYO 11</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/GRIT+Strength+11/103243478</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Accelerated Warmup</string>
+				<key>SongTitle</key>
+				<string>Lights &amp; Thunder</string>
+				<key>SongArtist</key>
+				<string>Fast Outer Space</string>
+				<key>SongDuration</key>
+				<string>2:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>Earthsphere</string>
+				<key>SongArtist</key>
+				<string>Astronaut</string>
+				<key>SongDuration</key>
+				<string>1:30</string>
+				<key>SongDuration2</key>
+				<string>2:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>All I Want</string>
+				<key>SongArtist</key>
+				<string>Brisk Howdy</string>
+				<key>SongDuration</key>
+				<string>1:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Big Track 1</string>
+				<key>SongTitle</key>
+				<string>Out The Speakers</string>
+				<key>SongArtist</key>
+				<string>Dub And The Chihuahua</string>
+				<key>SongDuration</key>
+				<string>2:00</string>
+				<key>SongDuration2</key>
+				<string>1:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Big Track 1</string>
+				<key>SongTitle</key>
+				<string>Rage The Night Away</string>
+				<key>SongArtist</key>
+				<string>Steve Aoki ft. Waka Flocka Flame</string>
+				<key>SongDuration</key>
+				<string>1:20</string>
+				<key>SongDuration2</key>
+				<string>1:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Plyometric</string>
+				<key>SongTitle</key>
+				<string>I Won&apos;t Break (Wil K Rmx)</string>
+				<key>SongArtist</key>
+				<string>Feenixpawl &amp; Trevor Simpson</string>
+				<key>SongDuration</key>
+				<string>2:45</string>
+				<key>SongDuration2</key>
+				<string>2:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Plyometric</string>
+				<key>SongTitle</key>
+				<string>Infinite Daps</string>
+				<key>SongArtist</key>
+				<string>The Psychic Voice</string>
+				<key>SongDuration</key>
+				<string>2:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Integrated Strength</string>
+				<key>SongTitle</key>
+				<string>Moving On</string>
+				<key>SongArtist</key>
+				<string>Stonebank ft. EMEL</string>
+				<key>SongDuration</key>
+				<string>1:50</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>Ongoing Thing    </string>
+				<key>SongArtist</key>
+				<string>The Honey Commitment</string>
+				<key>SongDuration</key>
+				<string>3:08</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Music Outro</string>
+				<key>SongTitle</key>
+				<string>Higher</string>
+				<key>SongArtist</key>
+				<string>The Older Style</string>
+				<key>SongDuration</key>
+				<string>0:34</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

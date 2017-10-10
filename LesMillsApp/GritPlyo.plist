@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>GRIT PLYO 11</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/GRIT+Strength+11/103243478</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Accelerated Warmup</string>
+				<key>SongTitle</key>
+				<string>Circles (Original Mix)</string>
+				<key>SongArtist</key>
+				<string>Audien ft. Ruby Prophet</string>
+				<key>SongDuration</key>
+				<string>2:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>City of Lights</string>
+				<key>SongArtist</key>
+				<string>Lush &amp; Simon</string>
+				<key>SongDuration</key>
+				<string>1:30</string>
+				<key>SongDuration2</key>
+				<string>2:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Plyometric</string>
+				<key>SongTitle</key>
+				<string>Home</string>
+				<key>SongArtist</key>
+				<string>Shimmering Fast</string>
+				<key>SongDuration</key>
+				<string>1:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Big Track 1</string>
+				<key>SongTitle</key>
+				<string>Platinum Chains</string>
+				<key>SongArtist</key>
+				<string>Colour Repeat</string>
+				<key>SongDuration</key>
+				<string>2:00</string>
+				<key>SongDuration2</key>
+				<string>1:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Big Track 1</string>
+				<key>SongTitle</key>
+				<string>White Lies</string>
+				<key>SongArtist</key>
+				<string>The Luminary Foundation</string>
+				<key>SongDuration</key>
+				<string>1:20</string>
+				<key>SongDuration2</key>
+				<string>1:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Plyometric</string>
+				<key>SongTitle</key>
+				<string>Overtime (Vicetone Rmx)</string>
+				<key>SongArtist</key>
+				<string>Cash Cash</string>
+				<key>SongDuration</key>
+				<string>2:45</string>
+				<key>SongDuration2</key>
+				<string>2:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Lower Body Plyometric</string>
+				<key>SongTitle</key>
+				<string>Dear Life (Original Mix)</string>
+				<key>SongArtist</key>
+				<string>Dannic ft. Bright Lights</string>
+				<key>SongDuration</key>
+				<string>2:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Integrated Strength</string>
+				<key>SongTitle</key>
+				<string>Moving On</string>
+				<key>SongArtist</key>
+				<string>Stonebank ft. EMEL</string>
+				<key>SongDuration</key>
+				<string>1:50</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core</string>
+				<key>SongTitle</key>
+				<string>Into You</string>
+				<key>SongArtist</key>
+				<string>Screen Growth</string>
+				<key>SongDuration</key>
+				<string>3:08</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Music Outro</string>
+				<key>SongTitle</key>
+				<string>Higher</string>
+				<key>SongArtist</key>
+				<string>The Older Style</string>
+				<key>SongDuration</key>
+				<string>0:34</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

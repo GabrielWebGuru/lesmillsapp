@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYVIVE 3.1  34</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyVive+3+1+34/104733733</string>
+		<key>PlaylistByService</key>
+		<dict>
+			<key>YouTube</key>
+			<string>https://www.youtube.com/playlist?list=PLb4x8eIyrCZdudciNUgWDjhRVIYRz2rkN</string>
+			<key>GrooveShark</key>
+			<string>http://grooveshark.com/playlist/BodyVive+3+1+34/104733733</string>
+			<key>Spotify</key>
+			<string>https://open.spotify.com/user/simona.b/playlist/3y8dFl16r8hA4Nso8IzlsH</string>
+		</dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>The Spark</string>
+				<key>SongArtist</key>
+				<string>Afrojack feat. Spree Wilson</string>
+				<key>SongDuration</key>
+				<string>4:04</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 1</string>
+				<key>SongTitle</key>
+				<string>Right Now (Ralphi Rosario Mix)</string>
+				<key>SongArtist</key>
+				<string>Rihanna feat. David Guetta</string>
+				<key>SongDuration</key>
+				<string>7:42</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 2</string>
+				<key>SongTitle</key>
+				<string>Single Ladies (Put A Ring On It)</string>
+				<key>SongArtist</key>
+				<string>Beyoncé</string>
+				<key>SongDuration</key>
+				<string>4:23</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 3</string>
+				<key>SongTitle</key>
+				<string>Supermassive Black Hole</string>
+				<key>SongArtist</key>
+				<string>Hail Velvet</string>
+				<key>SongDuration</key>
+				<string>3:32</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak Cardio</string>
+				<key>SongTitle</key>
+				<string>MacArthur Park (Laidback Luke Remix)</string>
+				<key>SongArtist</key>
+				<string>Donna Summer</string>
+				<key>SongDuration</key>
+				<string>3:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Active Recovery</string>
+				<key>SongTitle</key>
+				<string>#thatPOWER</string>
+				<key>SongArtist</key>
+				<string>will.i.am feat. Justin Bieber</string>
+				<key>SongDuration</key>
+				<string>4:40</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Dynamic Strength</string>
+				<key>SongTitle</key>
+				<string>Walk This Way</string>
+				<key>SongArtist</key>
+				<string>RUN-DMC feat. Aerosmith</string>
+				<key>SongDuration</key>
+				<string>5:10</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Integrated Strength</string>
+				<key>SongTitle</key>
+				<string>Inner Ninja (Remix)</string>
+				<key>SongArtist</key>
+				<string>Classified feat. Olly Murs</string>
+				<key>SongDuration</key>
+				<string>3:12</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hips</string>
+				<key>SongTitle</key>
+				<string>Millennium</string>
+				<key>SongArtist</key>
+				<string>Robbie Williams</string>
+				<key>SongDuration</key>
+				<string>4:08</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 1</string>
+				<key>SongTitle</key>
+				<string>Cover Me</string>
+				<key>SongArtist</key>
+				<string>The Cracked Shockwave</string>
+				<key>SongDuration</key>
+				<string>3:26</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 2</string>
+				<key>SongTitle</key>
+				<string>My Lovin&apos; (You&apos;re Never Gonna Get It)</string>
+				<key>SongArtist</key>
+				<string>En Vogue</string>
+				<key>SongDuration</key>
+				<string>4:42</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>The Look Of Love</string>
+				<key>SongArtist</key>
+				<string>Diana Krall</string>
+				<key>SongDuration</key>
+				<string>4:42</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYVIVE 33</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyVive+33/102950369</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Numb</string>
+				<key>SongArtist</key>
+				<string>Usher</string>
+				<key>SongDuration</key>
+				<string>3:40</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 1</string>
+				<key>SongTitle</key>
+				<string>Smells Like Teen Spirit (Original Mix)</string>
+				<key>SongArtist</key>
+				<string>Rene Amesz &amp; Baggi Begovic</string>
+				<key>SongDuration</key>
+				<string>6:48</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 2</string>
+				<key>SongTitle</key>
+				<string>Ever Fallen In Love</string>
+				<key>SongArtist</key>
+				<string>Pete Yorn</string>
+				<key>SongDuration</key>
+				<string>2:26</string>
+				<key>SongDuration2</key>
+				<string>1:08</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 3</string>
+				<key>SongTitle</key>
+				<string>Young Blood (Tiesto &amp; Hardwell Rmx)</string>
+				<key>SongArtist</key>
+				<string>The Naked &amp; Famous</string>
+				<key>SongDuration</key>
+				<string>5:28</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak Cardio</string>
+				<key>SongTitle</key>
+				<string>Hot n Cold</string>
+				<key>SongArtist</key>
+				<string>Katy Perry</string>
+				<key>SongDuration</key>
+				<string>3:28</string>
+				<key>SongDuration2</key>
+				<string>1:18</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Active Recovery</string>
+				<key>SongTitle</key>
+				<string>Just The Way You Are (Remix)</string>
+				<key>SongArtist</key>
+				<string>Bruno Mars ft. Lupe Fiasco</string>
+				<key>SongDuration</key>
+				<string>3:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Dynamic Strenght</string>
+				<key>SongTitle</key>
+				<string>Ladi Dadi</string>
+				<key>SongArtist</key>
+				<string>Steve Aoki ft. Wynter Gordo</string>
+				<key>SongDuration</key>
+				<string>5:21</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Integrated Strenght</string>
+				<key>SongTitle</key>
+				<string>Lay Down Your Guns</string>
+				<key>SongArtist</key>
+				<string>Jimmy Barnes</string>
+				<key>SongDuration</key>
+				<string>4:01</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hips</string>
+				<key>SongTitle</key>
+				<string>Dedication To My Ex (Miss That)</string>
+				<key>SongArtist</key>
+				<string>Lloyd ft. Andre 3000</string>
+				<key>SongDuration</key>
+				<string>3:54</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 1</string>
+				<key>SongTitle</key>
+				<string>Sledgehammer</string>
+				<key>SongArtist</key>
+				<string>Lifeless Ace</string>
+				<key>SongDuration</key>
+				<string>4:44</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 2</string>
+				<key>SongTitle</key>
+				<string>All That She Wants</string>
+				<key>SongArtist</key>
+				<string>Yolanda Be Cool ft. SYF &amp; Fritz Helder</string>
+				<key>SongDuration</key>
+				<string>4:35</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>Falling Into You</string>
+				<key>SongArtist</key>
+				<string>Céline Dion</string>
+				<key>SongDuration</key>
+				<string>4:18</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYVIVE 32</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyVive+32/101073438</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>When Love Takes Over</string>
+				<key>SongArtist</key>
+				<string>White Bird</string>
+				<key>SongDuration</key>
+				<string>4:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 1</string>
+				<key>SongTitle</key>
+				<string>What Now (R3hab Remix)</string>
+				<key>SongArtist</key>
+				<string>Rihanna</string>
+				<key>SongDuration</key>
+				<string>2:41</string>
+				<key>SongDuration2</key>
+				<string>2:42</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 2</string>
+				<key>SongTitle</key>
+				<string>Runaway Baby</string>
+				<key>SongArtist</key>
+				<string>Bruno Mars</string>
+				<key>SongDuration</key>
+				<string>2:25</string>
+				<key>SongDuration2</key>
+				<string>1:33</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 3</string>
+				<key>SongTitle</key>
+				<string>I Feel Love</string>
+				<key>SongArtist</key>
+				<string>Joint Fusion</string>
+				<key>SongDuration</key>
+				<string>5:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak Cardio</string>
+				<key>SongTitle</key>
+				<string>Locomotive Breath</string>
+				<key>SongArtist</key>
+				<string>The Marine</string>
+				<key>SongDuration</key>
+				<string>3:33</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Active Recovery</string>
+				<key>SongTitle</key>
+				<string>Rocketeer</string>
+				<key>SongArtist</key>
+				<string>Far East Movement ft. Ryan Tedder</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Dynamic Strenght</string>
+				<key>SongTitle</key>
+				<string>We Own The Night</string>
+				<key>SongArtist</key>
+				<string>Gold Emblem</string>
+				<key>SongDuration</key>
+				<string>6:34</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Integrated Strenght</string>
+				<key>SongTitle</key>
+				<string>Kiss</string>
+				<key>SongArtist</key>
+				<string>Art Of Noise ft. Tom Jones</string>
+				<key>SongDuration</key>
+				<string>0:08</string>
+				<key>SongDuration2</key>
+				<string>3:29</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hips</string>
+				<key>SongTitle</key>
+				<string>Ain’t No Other Man</string>
+				<key>SongArtist</key>
+				<string>Christina Aguilera</string>
+				<key>SongDuration</key>
+				<string>3:47</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 1</string>
+				<key>SongTitle</key>
+				<string>Take Me To The River</string>
+				<key>SongArtist</key>
+				<string>Annie Lennox</string>
+				<key>SongDuration</key>
+				<string>3:29</string>
+				<key>SongDuration2</key>
+				<string>1:30</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 2</string>
+				<key>SongTitle</key>
+				<string>Hold The Line</string>
+				<key>SongArtist</key>
+				<string>Toto</string>
+				<key>SongDuration</key>
+				<string>3:56</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>Saving All My Love For You</string>
+				<key>SongArtist</key>
+				<string>Whitney Houston</string>
+				<key>SongDuration</key>
+				<string>3:57</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYVIVE 31</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyVive+31/98436202</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Parachute</string>
+				<key>SongArtist</key>
+				<string>Timomatic </string>
+				<key>SongDuration</key>
+				<string>3:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 1</string>
+				<key>SongTitle</key>
+				<string>Where Have You Been (Calvin Harris Extended Remix)</string>
+				<key>SongArtist</key>
+				<string>Rihanna</string>
+				<key>SongDuration</key>
+				<string>5:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 2</string>
+				<key>SongTitle</key>
+				<string>Man Like That</string>
+				<key>SongArtist</key>
+				<string>Gin Wigmore</string>
+				<key>SongDuration</key>
+				<string>2:56</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 3</string>
+				<key>SongTitle</key>
+				<string>Speak Up (Original Mix)</string>
+				<key>SongArtist</key>
+				<string>Laidback Luke ft. Wynter Gordon</string>
+				<key>SongDuration</key>
+				<string>6:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak Cardio</string>
+				<key>SongTitle</key>
+				<string>Are You Gonna Go My Way</string>
+				<key>SongArtist</key>
+				<string>Lenny Kravitz</string>
+				<key>SongDuration</key>
+				<string>2:47</string>
+				<key>SongDuration2</key>
+				<string>2:12</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Active Recovery</string>
+				<key>SongTitle</key>
+				<string>Flashing Lights </string>
+				<key>SongArtist</key>
+				<string>Kanye West</string>
+				<key>SongDuration</key>
+				<string>3:58</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Dynamic Strenght</string>
+				<key>SongTitle</key>
+				<string>When You Touch Me(Bart B. More Remix)</string>
+				<key>SongArtist</key>
+				<string>Freemasons ft. Katherine Ellis</string>
+				<key>SongDuration</key>
+				<string>6:27</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Integrated Strenght</string>
+				<key>SongTitle</key>
+				<string>Hot In The City</string>
+				<key>SongArtist</key>
+				<string>Billy Idol </string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hips</string>
+				<key>SongTitle</key>
+				<string>Bye Bye Bye</string>
+				<key>SongArtist</key>
+				<string>N Sync</string>
+				<key>SongDuration</key>
+				<string>3:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 1</string>
+				<key>SongTitle</key>
+				<string>Nobody</string>
+				<key>SongArtist</key>
+				<string>Ne-Yo</string>
+				<key>SongDuration</key>
+				<string>3:07</string>
+				<key>SongDuration2</key>
+				<string>0:55</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 2</string>
+				<key>SongTitle</key>
+				<string>Drive</string>
+				<key>SongArtist</key>
+				<string>The Cars</string>
+				<key>SongDuration</key>
+				<string>3:54</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>So Into You</string>
+				<key>SongArtist</key>
+				<string>Atlanta Rhytm Section</string>
+				<key>SongDuration</key>
+				<string>4:24</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>NameRelease</key>
+		<string>BODYVIVE 30</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyVive+30/96417619</string>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>Exercise</key>
+				<string>Warmup</string>
+				<key>SongTitle</key>
+				<string>Moves Like Jagger </string>
+				<key>SongArtist</key>
+				<string>Maroon 5 ft. Christina Aguilera </string>
+				<key>SongDuration</key>
+				<string>3:26</string>
+				<key>SongDuration2</key>
+				<string>1:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 1</string>
+				<key>SongTitle</key>
+				<string>What Can We Do (A Deeper Love) (Extended Mix)</string>
+				<key>SongArtist</key>
+				<string>Tiesto</string>
+				<key>SongDuration</key>
+				<string>5:41</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 2</string>
+				<key>SongTitle</key>
+				<string>Show Me How You Burlesque </string>
+				<key>SongArtist</key>
+				<string>I Believe Tool</string>
+				<key>SongDuration</key>
+				<string>3:06</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Cardio 3</string>
+				<key>SongTitle</key>
+				<string>Centre Of Universe(Remode Edit)</string>
+				<key>SongArtist</key>
+				<string>Axwell</string>
+				<key>SongDuration</key>
+				<string>5:53</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Peak Cardio</string>
+				<key>SongTitle</key>
+				<string>Higher Ground </string>
+				<key>SongArtist</key>
+				<string>Red Hot Chili Peppers</string>
+				<key>SongDuration</key>
+				<string>3:21</string>
+				<key>SongDuration2</key>
+				<string>1:46</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Active Recovery</string>
+				<key>SongTitle</key>
+				<string>Take 5(Kool Summer Mix)</string>
+				<key>SongArtist</key>
+				<string>XL ft. Eric Singleton</string>
+				<key>SongDuration</key>
+				<string>4:49</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Dynamic Strenght</string>
+				<key>SongTitle</key>
+				<string>Only Girl In The World</string>
+				<key>SongArtist</key>
+				<string>Rihanna</string>
+				<key>SongDuration</key>
+				<string>3:31</string>
+				<key>SongDuration2</key>
+				<string>2:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Integrated Strenght</string>
+				<key>SongTitle</key>
+				<string>It&apos;s My Life</string>
+				<key>SongArtist</key>
+				<string>Bon Jovi</string>
+				<key>SongDuration</key>
+				<string>3:45</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Hips</string>
+				<key>SongTitle</key>
+				<string>The Way I Are</string>
+				<key>SongArtist</key>
+				<string>Timbaland ft. Keri Hilson</string>
+				<key>SongDuration</key>
+				<string>2:51</string>
+				<key>SongDuration2</key>
+				<string>1:59</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 1</string>
+				<key>SongTitle</key>
+				<string>I&apos;m Your Baby Tonight</string>
+				<key>SongArtist</key>
+				<string>Whitney Houston</string>
+				<key>SongDuration</key>
+				<string>4:20</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Core 2</string>
+				<key>SongTitle</key>
+				<string>Royals</string>
+				<key>SongArtist</key>
+				<string>Lorde</string>
+				<key>SongDuration</key>
+				<string>3:19</string>
+			</dict>
+			<dict>
+				<key>Exercise</key>
+				<string>Stretch</string>
+				<key>SongTitle</key>
+				<string>You&apos;re All I Need To Get By</string>
+				<key>SongArtist</key>
+				<string>Marvin Gaye &amp; Tammi Terrell</string>
+				<key>SongDuration</key>
+				<string>2:51</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

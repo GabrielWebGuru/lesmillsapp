@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>BODYATTACK</string>
+		<key>NameRelease</key>
+		<string>BODYATTACK 84</string>
+		<key>RoutineDescription</key>
+		<string>Cardio workout for building strength and stamina</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyAttack+84/96380731</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BODYBALANCE</string>
+		<key>NameRelease</key>
+		<string>BODYBALANCE 64</string>
+		<key>RoutineDescription</key>
+		<string>Yoga, Tai Chi, Pilates workout that builds flexibility and strength</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyBalance+64/96380771</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BODYCOMBAT</string>
+		<key>NameRelease</key>
+		<string>BODYCOMBAT 59</string>
+		<key>RoutineDescription</key>
+		<string>Cardio workout mixing karate, boxing, taekwondo, tai chi and muay thai</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyCombat+59/96382324</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BODYJAM</string>
+		<key>NameRelease</key>
+		<string>BODYJAM 68</string>
+		<key>RoutineDescription</key>
+		<string>Cardio workout mixing latest dance styles and hottest new sounds</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyJam+68/96382663</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BODYPUMP</string>
+		<key>NameRelease</key>
+		<string>BODYPUMP 89</string>
+		<key>RoutineDescription</key>
+		<string>Barbell class to sculpt, tone and strengthen your entire body</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyPump+89/96385190</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BODYSTEP</string>
+		<key>NameRelease</key>
+		<string>BODYSTEP 95</string>
+		<key>RoutineDescription</key>
+		<string>Energizing step workout that makes you feel liberated and alive </string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyStep+95/96386764</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BODYVIVE</string>
+		<key>NameRelease</key>
+		<string>BODYVIVE 30</string>
+		<key>RoutineDescription</key>
+		<string>Low-impact  fitness workout that boost fitness and core strength</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/BodyVive+30/96417619</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RPM</string>
+		<key>NameRelease</key>
+		<string>RPM 62</string>
+		<key>RoutineDescription</key>
+		<string>Indoor cycling workout where you ride to the rhythm of powerful music</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/RPM+62/96417870</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SH&apos;BAM</string>
+		<key>NameRelease</key>
+		<string>SH&apos;BAM 15</string>
+		<key>RoutineDescription</key>
+		<string>Cardio workout mixing chart-topping popular hits </string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/SH+BAM+15/96417989</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CXWORX</string>
+		<key>NameRelease</key>
+		<string>CXWORX 14</string>
+		<key>RoutineDescription</key>
+		<string>Short, sharp workout to strenghten and tone your core</string>
+		<key>PlaylistUrl</key>
+		<string>http://grooveshark.com/playlist/CXWORX+14/96714283</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GRIT STRENGTH</string>
+		<key>NameRelease</key>
+		<string>GRIT STRENGTH</string>
+		<key>RoutineDescription</key>
+		<string>HIIT workout to improve strength and build lean muscle</string>
+		<key>PlaylistUrl</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GRIT PLYO</string>
+		<key>NameRelease</key>
+		<string>GRIT PLYO</string>
+		<key>RoutineDescription</key>
+		<string>HIIT plyometric-based workout to make you train like an athlete</string>
+		<key>PlaylistUrl</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GRIT CARDIO</string>
+		<key>NameRelease</key>
+		<string>GRIT CARDIO</string>
+		<key>RoutineDescription</key>
+		<string>HIIT workout that improves cardiovascular fitness </string>
+		<key>PlaylistUrl</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
